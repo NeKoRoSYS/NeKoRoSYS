@@ -1,5 +1,5 @@
 # Hi, I am NecroMarX!
-
+I am Filipino, and is currently 16 years old. I am an aspiring software and game developer! My goal is to learn a lot of aspects that come in developing projects such as video games, or even stuff outside game development. I am currently working alone but I am happy to work with anyone if I pass the criteria.
 <!--
 **NecroMarX/NecroMarX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
