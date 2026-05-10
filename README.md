@@ -7,11 +7,11 @@ You can find more about me on my [website](https://nekorosys.github.io)'s About 
 ![](https://github-readme-stats.shion.dev/api?username=NeKoRoSYS&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=NeKoRoSYS&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NeKoRoSYS&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<br/>
   
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NeKoRoSYS&theme=aura&no-frame=false&no-bg=true&margin-w=4)
-  
+<br/>
   
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
