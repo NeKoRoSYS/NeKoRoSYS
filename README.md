@@ -4,8 +4,6 @@
 
 </div>
 
-<br>  
-
 <div align="center">
             <a href="https://paypal.me/genecromarky" target="_blank" style="display: inline-block;">
                 <img
