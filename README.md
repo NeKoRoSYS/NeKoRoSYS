@@ -45,7 +45,6 @@ You can find more about me on my [website](https://nekorosys.github.io)'s About 
 <br>  
 
 ## Tech Stack
-
 <br>
 
 <table><tr><td valign="top" width="33%">
@@ -105,5 +104,7 @@ You can find more about me on my [website](https://nekorosys.github.io)'s About 
   
 ## GitHub Trophies
 <div align="center">
+            
 ![](https://github-profile-trophy.vercel.app/?username=NeKoRoSYS&theme=aura&no-frame=false&no-bg=true&margin-w=4)
+
 </div>
