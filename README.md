@@ -95,6 +95,8 @@ You can find more about me on my [website](https://nekorosys.github.io)'s About 
 
 </div>
 
+<br>
+
 I mainly do Unity game development; basic/intermediate frontend webdev via HTML, CSS, and JS; and Arch Linux ricing! Though, I have lately been dipping myself into learning C++ for developing a basic 3D game engine.
 
 <br>
