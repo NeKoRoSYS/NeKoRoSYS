@@ -2,6 +2,7 @@
 I am an aspiring software developer, and my goal is to learn a lot of aspects that come in developing software such as video games and even tools. I am currently working alone but I am happy to work with anyone if I pass the criteria.
 
 You can find more about me on my [website](https://nekorosys.github.io)'s About Me tab!
+<br>
 
 ## GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=NeKoRoSYS&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -11,7 +12,7 @@ You can find more about me on my [website](https://nekorosys.github.io)'s About 
   
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NeKoRoSYS&theme=aura&no-frame=false&no-bg=true&margin-w=4)
-<br/>
+<br>
   
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -55,7 +56,7 @@ You can find more about me on my [website](https://nekorosys.github.io)'s About 
 
 </td></tr></table>  
   
-<br/>  
+<br>  
 
 ## Connect with me  
 <div align="center">
@@ -76,7 +77,7 @@ You can find more about me on my [website](https://nekorosys.github.io)'s About 
 </a>  
 </div>  
   
-<br/>  
+<br>  
 
 <div align="center">
             <a href="https://paypal.me/genecromarky" target="_blank" style="display: inline-block;">
