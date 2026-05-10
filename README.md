@@ -1,10 +1,4 @@
 <div align="center">
-            
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=33&pause=5000&color=986EF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Welcome+to+NeKoRoSYS's+GitHub+Profile!)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
             <a href="https://paypal.me/genecromarky" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
@@ -18,6 +12,12 @@
                 />
             </a></div>
 <br />
+
+<div align="center">
+            
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=33&pause=5000&color=986EF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Welcome+to+NeKoRoSYS's+GitHub+Profile!)](https://git.io/typing-svg)
+
+</div>
 
 # Hi, I am NeKoRoSYS!
 I am an aspiring software developer, and my goal is to learn a lot of aspects that come in developing software such as video games and even tools. I am currently working alone but I am happy to work with anyone if I pass the criteria.
