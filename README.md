@@ -53,7 +53,7 @@ You can find more about me on my [website](https://nekorosys.github.io)'s About 
 ## Tech Stack
 <br>
 
-DISCLAIMER: I utilize LLMs to assist me with my programming endeavors. A handful of my projects have some of its boilerplate code "vibecoded" for quicker iteration and prototyping. Regardless, it's essential that I use AI tools sparingly and responsibly on top of the knowledge I myself already possess or otherwise these projects would not have been possible for me to create in the first place.
+DISCLAIMER: I utilize LLMs to assist me with my programming endeavors. A handful of my projects have some of its boilerplate code "vibecoded" for quicker iteration and prototyping—still, with the custom code I actually manually created by myself. Regardless, it's essential that I use AI tools sparingly and responsibly on top of the knowledge I myself already possess or otherwise these projects would not have been possible for me to create in the first place.
 
 <br>
 
