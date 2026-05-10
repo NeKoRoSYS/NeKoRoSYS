@@ -53,6 +53,10 @@ You can find more about me on my [website](https://nekorosys.github.io)'s About 
 ## Tech Stack
 <br>
 
+DISCLAIMER: I utilize LLMs to assist me with my programming endeavors. A handful of my projects have some of its boilerplate code "vibecoded" for quicker iteration and prototyping. Regardless, it's essential that I use these tools sparingly and responsibly on top of the knowledge I myself already possess.
+
+<br>
+
 <div align="center">
 
 <table><tr><td valign="top" width="33%">
