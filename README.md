@@ -103,6 +103,13 @@ DISCLAIMER: I utilize LLMs to assist me with my programming endeavors. A handful
 
 I mainly do Unity game development; basic/intermediate frontend webdev via HTML, CSS, and JS; and Arch Linux ricing! Though, I have lately been dipping myself into learning C++ for developing a basic 3D game engine.
 
+My other goals include learning about the following concepts and applying them practically:
+- Docking
+- Cloud computing, hosting, and management
+- Webserver hosting and management
+- Database hosting and management
+- Testing
+- CI/CD
 <br>
 
 ## GitHub Stats
