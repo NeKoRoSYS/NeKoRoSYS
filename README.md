@@ -1,4 +1,8 @@
+<div align="center">
+            
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=33&pause=5000&color=986EF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Welcome+to+NeKoRoSYS's+GitHub+Profile!)](https://git.io/typing-svg)
+
+</div>
 
 <br>  
 
