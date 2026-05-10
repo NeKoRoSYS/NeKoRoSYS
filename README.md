@@ -54,6 +54,7 @@ You can find more about me on my [website](https://nekorosys.github.io)'s About 
 <div align="center">
 
 <table><tr><td valign="top" width="33%">
+            
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -68,6 +69,7 @@ You can find more about me on my [website](https://nekorosys.github.io)'s About 
 </div>
 
 </td><td valign="top" width="33%">
+            
 ### Backend  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -81,6 +83,7 @@ You can find more about me on my [website](https://nekorosys.github.io)'s About 
 </div>
 
 </td><td valign="top" width="33%">
+            
 ### DevOps  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
