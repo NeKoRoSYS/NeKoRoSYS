@@ -19,7 +19,9 @@
 
 </div>
 
-# Hi, I am NeKoRoSYS!
+<br>
+
+# Hello!
 I am an aspiring software developer, and my goal is to learn a lot of aspects that come in developing software such as video games and even tools. I am currently working alone but I am happy to work with anyone if I pass the criteria.
 
 <br>
