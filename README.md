@@ -17,7 +17,7 @@
 
 # Hi, I am NeKoRoSYS!
 I am an aspiring software developer, and my goal is to learn a lot of aspects that come in developing software such as video games and even tools. I am currently working alone but I am happy to work with anyone if I pass the criteria.
-
+<br>
 <div align="center">
 <a href="https://github.com/NeKoRoSYS" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -35,7 +35,7 @@ I am an aspiring software developer, and my goal is to learn a lot of aspects th
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
+<br>
 You can find more about me on my [website](https://nekorosys.github.io)'s About Me tab!
   
 <br>  
