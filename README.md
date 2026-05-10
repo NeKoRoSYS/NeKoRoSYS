@@ -47,6 +47,8 @@ You can find more about me on my [website](https://nekorosys.github.io)'s About 
 ## Tech Stack
 <br>
 
+<div align="center">
+
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -87,6 +89,8 @@ You can find more about me on my [website](https://nekorosys.github.io)'s About 
 
 </td></tr></table>  
 
+</div>
+
 <br>
 
 ## GitHub Stats
@@ -103,6 +107,8 @@ You can find more about me on my [website](https://nekorosys.github.io)'s About 
 <br>
   
 ## GitHub Trophies
+<br>
+
 <div align="center">
             
 ![](https://github-profile-trophy.vercel.app/?username=NeKoRoSYS&theme=aura&no-frame=false&no-bg=true&margin-w=4)
