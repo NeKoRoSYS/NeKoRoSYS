@@ -23,7 +23,7 @@
 <h2 align="center"> About Me </h2>
 <br>
 
-I am an aspiring software developer, and my goal is to learn a lot of aspects that come in developing software and IoT such as video games and other tools and systems. Currently getting into college, I plan to pursue the Bachelor of Science in Computer Science. You can find more about me on [my website](https://nekorosys.github.io)!
+I am an aspiring software developer, and my goal is to learn a lot of aspects that come in developing software and IoT such as video games and other tools and systems. Currently getting into college, I plan to pursue the Bachelor of Science in Computer Science course. You can find more about me on [my website](https://nekorosys.github.io)!
 
 <br>
 
