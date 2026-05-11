@@ -60,7 +60,7 @@ You can find more about me on my [website](https://nekorosys.github.io)'s About 
 ## Tech Stack
 <br>
 
-DISCLAIMER: A utilize AI to "vibecode" boilerplate code for quicker iteration and prototyping—however, the core architecture and custome systems are always manually written by me. Regardless, it's essential that I use AI tools sparingly and responsibly on top of the knowledge I myself already possess or otherwise these projects would not have been possible for me to create in the first place.
+DISCLAIMER: I utilize AI to "vibecode" boilerplate for quicker iteration and prototyping—however, the core architecture and custome systems are always manually written by me. Regardless, it's essential that I use AI tools sparingly and responsibly on top of the knowledge I myself already possess or otherwise these projects would not have been possible for me to create in the first place.
 
 <br>
 
