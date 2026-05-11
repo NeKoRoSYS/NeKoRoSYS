@@ -1,3 +1,9 @@
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
+
+<br>
+
 <div align="center">
             <a href="https://paypal.me/genecromarky" target="_blank" style="display: inline-block;">
                 <img
@@ -159,3 +165,9 @@ My other goals include learning about the following concepts and applying them p
 ![](https://github-profile-trophy.vercel.app/?username=NeKoRoSYS&theme=aura&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
+
+<br>
+
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
