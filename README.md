@@ -25,7 +25,8 @@
 
 </div>
 
-# About Me
+<h2 align="center"> About Me </h2>
+
 I am an aspiring software developer, and my goal is to learn a lot of aspects that come in developing software such as video games and even tools. Currently getting into college, I plan to pursue the Bachelor of Science in Computer Science. You can find more about me on my [website](https://nekorosys.github.io)'s About Me tab!
 
 <br>
@@ -63,14 +64,15 @@ I work alone either professionaly or as a hobby while I continue my journey of u
 <br>
 
 
-## My Featured Projects
+<h2 align="center"> My Featured Projects </h2>
+
 - [NeKoRoSHELL](https://github.com/NeKoRoSYS/NeKoRoSHELL) is a minimal, generic, and modular ricing/customization framework for Arch Linux + Hyprland. It aims to provide an out-of-box "skins" engine that lets any user to quickly switch appearances for each widget/package such as waybar and the like. It also features a default "Legacy" theme which is a collection of skins I personally designed for a seamless UI/UX experience.
 - [NeKoRoSHELL DLux](https://github.com/NeKoRoSYS/NeKoRoSHELL-DLux-Shell) is an optional upgrade of the original NeKoRoSHELL project that uses Quickshell as a framework. This project aims to replace all of the separate packages/widgets like waybar and SwayNC with QT-based UI components for an even more consistent UI/UX experience.
 - [NeKoRoGEAR](https://github.com/NeKoRoSYS/NeKoRoGEAR) is a 3D game engine programmed with C++ and is based on established libraries such as SDL3, OpenGL, and more.
 - [NeKONTROLLER](https://github.com/NeKoRoSYS/NeKONTROLLER) is my own input handling solution based on Unity's New Input System. It features touch controls and other useful utilities and singletons.
 <br>
 
-## Tech Stack
+<h2 align="center"> Tech Stack </h2>
 <br>
 
 DISCLAIMER: I utilize AI to "vibecode" boilerplate for quicker iteration and prototyping—however, the core architecture and custome systems are always manually written by me. Regardless, it's essential that I use AI tools sparingly and responsibly on top of the knowledge I myself already possess or otherwise these projects would not have been possible for me to create in the first place.
@@ -138,7 +140,7 @@ My other goals include learning about the following concepts and applying them p
 
 <br>
 
-## GitHub Stats
+<h2 align="center"> GitHub Stats </h2>
 <br>
 
 <div align="center">  
@@ -157,7 +159,7 @@ My other goals include learning about the following concepts and applying them p
 
 <br>
   
-## GitHub Trophies
+<h2 align="center"> GitHub Trophies </h2>
 <br>
 
 <div align="center">
