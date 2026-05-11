@@ -55,6 +55,8 @@ I am an aspiring software developer, and my goal is to learn a lot of aspects th
 I am active the most on Discord. Here's my username - `@nekorosys`
 
 I work alone either professionaly or as a hobby while I continue my journey of upskilling and making useable prototypes. However, I am more than happy enough to work with if I pass the criteria.
+
+<!-- TODO: Add CV and Specialized Portfolios -->
   
 <br>
 
