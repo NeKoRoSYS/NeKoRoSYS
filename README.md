@@ -2,7 +2,7 @@
   <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
 </a>
 
-<br>
+<br> <br>
 
 <div align="center">
             <a href="https://paypal.me/genecromarky" target="_blank" style="display: inline-block;">
