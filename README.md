@@ -143,11 +143,9 @@ My other goals include learning about the following concepts and applying them p
 <h2 align="center"> GitHub Stats </h2>
 <br>
 
-<div align="center">  
+<p align="center">  
   
 ![](https://github-readme-stats.shion.dev/api?username=NeKoRoSYS&theme=aura&hide_border=false&include_all_commits=true&count_private=true)
-
-<br>
 
 ![](https://streak-stats.demolab.com/?user=NeKoRoSYS&theme=aura&hide_border=false)
 
@@ -155,7 +153,7 @@ My other goals include learning about the following concepts and applying them p
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NeKoRoSYS&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
+</p>
 
 <br>
   
