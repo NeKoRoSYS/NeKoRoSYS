@@ -20,7 +20,7 @@
 </div>
 
 # Hello!
-I am an aspiring software developer, and my goal is to learn a lot of aspects that come in developing software such as video games and even tools. I am currently working alone but I am happy to work with anyone if I pass the criteria.
+I am an aspiring software developer, and my goal is to learn a lot of aspects that come in developing software such as video games and even tools. Currently getting into college, I plan to pursue the Bachelor of Science in Computer Science. I work alone as I continue my journey of upskilling and making useable prototypes but I am happy to work with anyone if I pass the criteria.
 
 <br>
 
@@ -50,10 +50,17 @@ You can find more about me on my [website](https://nekorosys.github.io)'s About 
   
 <br>  
 
+## My Featured Projects
+- [NeKoRoSHELL](https://github.com/NeKoRoSYS/NeKoRoSHELL) is a minimal, generic, and modular ricing/customization framework for Arch Linux + Hyprland. It aims to provide an out-of-box "skins" engine that lets its users quickly switch appearances for each widget/package such as waybar and the like. It also features a default "Legacy" theme which is a collection of skins I personally designed for a seamless UI/UX experience.
+- [NeKoRoSHELL DLux](https://github.com/NeKoRoSYS/NeKoRoSHELL-DLux-Shell) is an optionaal upgrade of the original NeKoRoSHELL project that uses Quickshell as a framework. This project aims to replace all of the separate packages/widgets like waybar and SwayNC with QT-based UI components for an even more consistent UI/UX experience.
+- [NeKoRoGEAAR](https://github.com/NeKoRoSYS/NeKoRoGEAR) is a 3D game engine programmed with C++ and is based on established libraries such as SDL3, OpenGL, and more.
+- [NeKONTROLLER](https://github.com/NeKoRoSYS/NeKONTROLLER) is my own input handling solution based on Unity's New Input System. It features touch controls and other useful utilities and singletons.
+<br>
+
 ## Tech Stack
 <br>
 
-DISCLAIMER: I utilize LLMs to assist me with my programming endeavors. A handful of my projects have some of their boilerplate code "vibecoded" for quicker iteration and prototyping—but most importantly, with custom code built on top that I manually created by myself without the use of AI. Regardless, it's essential that I use AI tools sparingly and responsibly on top of the knowledge I myself already possess or otherwise these projects would not have been possible for me to create in the first place.
+DISCLAIMER: A handful of my projects have some of their boilerplate code "vibecoded" for quicker iteration and prototyping—but most importantly, with custom code built on top that I manually wrote. Regardless, it's essential that I use AI tools sparingly and responsibly on top of the knowledge I myself already possess or otherwise these projects would not have been possible for me to create in the first place.
 
 <br>
 
@@ -104,7 +111,7 @@ DISCLAIMER: I utilize LLMs to assist me with my programming endeavors. A handful
 I mainly do Unity game development; basic/intermediate frontend webdev via HTML, CSS, and JS; and Arch Linux ricing! Though, I have lately been dipping myself into learning C++ for developing a basic 3D game engine.
 
 My other goals include learning about the following concepts and applying them practically:
-- Docking
+- Docker/Containerization
 - Cloud computing, hosting, and management
 - Webserver hosting and management
 - Database hosting and management
