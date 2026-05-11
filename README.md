@@ -19,7 +19,7 @@
 
 </div>
 
-# Hello!
+# About Me
 I am an aspiring software developer, and my goal is to learn a lot of aspects that come in developing software such as video games and even tools. Currently getting into college, I plan to pursue the Bachelor of Science in Computer Science. I work alone as I continue my journey of upskilling and making useable prototypes but I am happy to work with anyone if I pass the criteria.
 
 <br>
@@ -48,7 +48,14 @@ I am active the most on Discord. Here's my username - `@nekorosys`
 
 You can find more about me on my [website](https://nekorosys.github.io)'s About Me tab!
   
-<br>  
+<br>
+
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
+
+<br>
+
 
 ## My Featured Projects
 - [NeKoRoSHELL](https://github.com/NeKoRoSYS/NeKoRoSHELL) is a minimal, generic, and modular ricing/customization framework for Arch Linux + Hyprland. It aims to provide an out-of-box "skins" engine that lets any user to quickly switch appearances for each widget/package such as waybar and the like. It also features a default "Legacy" theme which is a collection of skins I personally designed for a seamless UI/UX experience.
@@ -117,6 +124,12 @@ My other goals include learning about the following concepts and applying them p
 - Database hosting and management
 - Testing
 - CI/CD
+<br>
+
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
+
 <br>
 
 ## GitHub Stats
