@@ -86,7 +86,7 @@ I utilize the latest AI technology available to "vibecode" boilerplate for quick
 <div align="center">
 
 <table><tr><td valign="top" width="33%">
-            
+
 ### Frontend  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -127,7 +127,7 @@ I utilize the latest AI technology available to "vibecode" boilerplate for quick
 
 <br>
 
-I mainly do Unity game development; basic/intermediate frontend webdev via HTML, CSS, and JS; and Arch Linux ricing! Though, I have lately been dipping myself into learning C++ for developing a basic 3D game engine.
+My profeciency for each category varies but I do have a grasp on their core concepts and essential dos and don'ts. I mainly do Unity game development; basic/intermediate frontend webdev via HTML, CSS, and JS; and Arch Linux ricing! Though, I have lately been dipping myself into learning C++ for developing a basic 3D game engine.
 
 My other goals include learning about the following concepts and applying them practically:
 - Docker/Containerization
