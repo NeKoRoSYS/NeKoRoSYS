@@ -26,6 +26,7 @@
 </div>
 
 <h2 align="center"> About Me </h2>
+<br>
 
 I am an aspiring software developer, and my goal is to learn a lot of aspects that come in developing software and IoT such as video games and other tools and systems. Currently getting into college, I plan to pursue the Bachelor of Science in Computer Science. You can find more about me on my [website](https://nekorosys.github.io)'s About Me tab!
 
@@ -65,6 +66,7 @@ I work alone either professionaly or as a hobby while I continue my journey of u
 
 
 <h2 align="center"> My Featured Projects </h2>
+<br>
 
 - [NeKoRoSHELL](https://github.com/NeKoRoSYS/NeKoRoSHELL) is a minimal, generic, and modular ricing/customization framework for Arch Linux + Hyprland. It aims to provide an out-of-box "skins" engine that lets any user to quickly switch appearances for each widget/package such as waybar and the like. It also features a default "Legacy" theme which is a collection of skins I personally designed for a seamless UI/UX experience.
 - [NeKoRoSHELL DLux](https://github.com/NeKoRoSYS/NeKoRoSHELL-DLux-Shell) is an optional upgrade of the original NeKoRoSHELL project that uses Quickshell as its framework. This project aims to replace all of the separate packages/widgets like waybar and SwayNC with QT-based UI components for an even more consistent UI/UX experience.
