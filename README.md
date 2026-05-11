@@ -26,7 +26,7 @@
 </div>
 
 # About Me
-I am an aspiring software developer, and my goal is to learn a lot of aspects that come in developing software such as video games and even tools. Currently getting into college, I plan to pursue the Bachelor of Science in Computer Science. I work alone as I continue my journey of upskilling and making useable prototypes but I am happy to work with anyone if I pass the criteria.
+I am an aspiring software developer, and my goal is to learn a lot of aspects that come in developing software such as video games and even tools. Currently getting into college, I plan to pursue the Bachelor of Science in Computer Science. You can find more about me on my [website](https://nekorosys.github.io)'s About Me tab!
 
 <br>
 
@@ -52,7 +52,7 @@ I am an aspiring software developer, and my goal is to learn a lot of aspects th
 
 I am active the most on Discord. Here's my username - `@nekorosys`
 
-You can find more about me on my [website](https://nekorosys.github.io)'s About Me tab!
+I work alone either professionaly or as a hobby while I continue my journey of upskilling and making useable prototypes. However, I am more than happy enough to work with if I pass the criteria.
   
 <br>
 
