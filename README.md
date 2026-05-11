@@ -75,7 +75,7 @@ I work alone either professionaly or as a hobby while I continue my journey of u
 <h2 align="center"> Tech Stack </h2>
 <br>
 
-DISCLAIMER: I utilize AI to "vibecode" boilerplate for quicker iteration and prototyping—however, the core architecture and custome systems are always manually written by me. Regardless, it's essential that I use AI tools sparingly and responsibly on top of the knowledge I myself already possess or otherwise these projects would not have been possible for me to create in the first place.
+DISCLAIMER: I utilize AI to "vibecode" boilerplate for quicker iteration and prototyping—however, the core architecture and custom systems are always manually written by me. Regardless, it's essential that I use AI tools sparingly and responsibly on top of the knowledge I myself already possess or otherwise these projects would not have been possible for me to create in the first place.
 
 <br>
 
