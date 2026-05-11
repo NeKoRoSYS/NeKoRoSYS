@@ -147,7 +147,7 @@ My other goals include learning about the following concepts and applying them p
   <img width="48%" src="https://github-readme-stats.shion.dev/api?username=NeKoRoSYS&theme=aura&hide_border=false&include_all_commits=true&count_private=true"></img>
   <img width="48%" src="https://streak-stats.demolab.com/?user=NeKoRoSYS&theme=aura&hide_border=false"></img>
 </p>
-<p align="center"
+<p align="center">
   <img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=NeKoRoSYS&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></img>
 </p>
 
