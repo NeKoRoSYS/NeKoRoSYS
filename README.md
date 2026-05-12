@@ -50,7 +50,15 @@ I work alone either professionaly or as a hobby while I continue my journey of u
 <br>
 
 <div align="center">
-  <p align="center"><b>*My Etherium Wallet:</b> 0x5C429b3fdc7E6F7a692C234358ba31492Feb651C</p>
+  
+  <b>*My Etherium Wallet:</b> 
+
+  ```
+  0x71C7656EC7ab88b098defB751B7401B5f6d8976F
+  ```
+
+  <br>
+  
   <img width="197" height="197" alt="image" src="https://github.com/user-attachments/assets/cec40fa6-ceeb-4b16-8fcc-1b8844746810" />
   <p align="center"><i>*QR Code Version</i></p>
   <br>
