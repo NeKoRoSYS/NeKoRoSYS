@@ -57,17 +57,25 @@ I work alone either professionaly or as a hobby while I continue my journey of u
 
 <div align="center">
   
-  <b>*My Etherium Wallet:</b> 
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <b>*My Ethereum Wallet:</b><br><br>
+        <code>0x5C429b3fdc7E6F7a692C234358ba31492Feb651C</code><br><br>
+        <img width="197" height="197" alt="Ethereum QR Code" src="https://github.com/user-attachments/assets/cec40fa6-ceeb-4b16-8fcc-1b8844746810" /><br>
+        <i>*QR Code Version</i>
+      </td>
+      <td align="center" width="50%">
+        <b>*My Bitcoin Wallet:</b><br><br>
+        <code>bc1qw80kkgu8yp4mwzuzddygmnyamcjesfavwmer8a</code><br><br>
+        <!-- Replace the src link below once you have your Bitcoin QR code uploaded -->
+        <img width="197" height="197" alt="Bitcoin QR Code" src="https://via.placeholder.com/197?text=Bitcoin+QR+Here" /><br>
+        <i>*QR Code Version</i>
+      </td>
+    </tr>
+  </table>
 
-  ```
-  0x5C429b3fdc7E6F7a692C234358ba31492Feb651C
-  ```
-
-  <br>
-  
-  <img width="197" height="197" alt="image" src="https://github.com/user-attachments/assets/cec40fa6-ceeb-4b16-8fcc-1b8844746810" />
-  <p align="center"><i>*QR Code Version</i></p>
-  <br>
+  <p>or...</p>
   <a href="https://paypal.me/genecromarky" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center"/>
   </a>
@@ -78,7 +86,7 @@ I work alone either professionaly or as a hobby while I continue my journey of u
 
 <br>
 
-Sponsoring me is not a must but will be immensely appreciated!
+<p align="center">Sponsoring me is not a must but will be immensely appreciated!</p>
 
 <br>
 
