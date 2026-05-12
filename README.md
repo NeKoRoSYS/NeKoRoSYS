@@ -49,6 +49,7 @@ I work alone either professionaly or as a hobby while I continue my journey of u
 <h2 align="center"> Sponsor Me! </h2>
 <br>
 
+
 <div align="center">
   
   <b>*My Etherium Wallet:</b> 
@@ -70,7 +71,11 @@ I work alone either professionaly or as a hobby while I continue my journey of u
   </a>
 </div>
 
-<br><br>
+<br>
+
+Sponsoring me is not a must but will be immensely appreciated!
+
+<br>
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
   <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
