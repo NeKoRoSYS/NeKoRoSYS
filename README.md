@@ -149,6 +149,8 @@ I utilize the latest AI technology available to "vibecode" boilerplate for quick
 
 My profeciency for each category varies but I do have a grasp on their core concepts and essential dos and don'ts. I mainly do Unity game development; basic/intermediate frontend webdev via HTML, CSS, and JS; and Arch Linux ricing! Though, I have lately been dipping myself into learning C++ for developing a basic 3D game engine.
 
+My main goal has always been to upskill myself. I'm currently in the pursuit of obtaining certificates (eg. programming languages, DICT/TESDA, HackerRank, AWS/Azure Cloud, CS50, etc.) to solidify my skills so that the Tech Stack above would make more sense.
+
 My other goals include learning about the following concepts and applying them practically:
 - Docker/Containerization
 - Cloud computing, hosting, and management
