@@ -54,7 +54,6 @@ I work alone either professionaly or as a hobby while I continue my journey of u
 <h2 align="center"> Sponsor Me! </h2>
 <br>
 
-
 <div align="center">
   
   <table>
@@ -62,12 +61,12 @@ I work alone either professionaly or as a hobby while I continue my journey of u
       <td align="center" width="50%">
         <b>My Ethereum Wallet</b><br><br>
         <code>0x5C429b3fdc7E6F7a692C234358ba31492Feb651C</code><br><br>
-        <img width="197" height="197" alt="Ethereum QR Code" src="https://github.com/user-attachments/assets/9532a55c-3e43-4e96-83d1-efaf12edc36a" /><br>
+        <img width="197" height="197" alt="Ethereum QR Code" src="https://github.com/user-attachments/assets/0474e85c-0bf9-4e80-90e4-47d883307221" /><br>
       </td>
       <td align="center" width="50%">
         <b>My Bitcoin Wallet</b><br><br>
         <code>bc1qw80kkgu8yp4mwzuzddygmnyamcjesfavwmer8a</code><br><br>
-        <img width="197" height="197" alt="Bitcoin QR Code" src="https://github.com/user-attachments/assets/8eaf3159-be80-4d2b-bc19-a70f291d5df5" /><br>
+        <img width="197" height="197" alt="Bitcoin QR Code" src="https://github.com/user-attachments/assets/470db62b-dca0-4b10-a979-c2be1f8d8203" /><br>
       </td>
     </tr>
   </table>
