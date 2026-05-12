@@ -60,12 +60,12 @@ I work alone either professionaly or as a hobby while I continue my journey of u
   <table>
     <tr>
       <td align="center" width="50%">
-        <b>My Ethereum Wallet:</b><br><br>
+        <b>My Ethereum Wallet</b><br><br>
         <code>0x5C429b3fdc7E6F7a692C234358ba31492Feb651C</code><br><br>
         <img width="197" height="197" alt="Ethereum QR Code" src="https://github.com/user-attachments/assets/9532a55c-3e43-4e96-83d1-efaf12edc36a" /><br>
       </td>
       <td align="center" width="50%">
-        <b>My Bitcoin Wallet:</b><br><br>
+        <b>My Bitcoin Wallet</b><br><br>
         <code>bc1qw80kkgu8yp4mwzuzddygmnyamcjesfavwmer8a</code><br><br>
         <img width="197" height="197" alt="Bitcoin QR Code" src="https://github.com/user-attachments/assets/8eaf3159-be80-4d2b-bc19-a70f291d5df5" /><br>
       </td>
