@@ -5,20 +5,12 @@
 <br><br>
 
 <div align="center">
-  <a href="https://paypal.me/genecromarky" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center"/>
-  </a>
-  <a href="https://ko-fi.com/nekorosys" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" align="center"/>
-  </a>
-</div>
-<br/>
-
-<div align="center">
             
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=33&pause=5000&color=986EF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Welcome+to+NeKoRoSYS's+GitHub+Profile!)](https://git.io/typing-svg)
 
 </div>
+
+<br>
 
 <h2 align="center"> About Me </h2>
 <br>
@@ -52,8 +44,25 @@ I am active the most on Discord. Here's my username - `@nekorosys`
 I work alone either professionaly or as a hobby while I continue my journey of upskilling and making useable prototypes and products. However, I am more than happy enough to work with anyone who's interested if I pass the criteria.
 
 <!-- TODO: Add CV and Specialized Portfolios -->
-  
 <br>
+
+<h2 align="center"> Sponsor Me! </h2>
+<br>
+
+<div align="center">
+  <p align="center"><b>*My Etherium Wallet:</b> 0x5C429b3fdc7E6F7a692C234358ba31492Feb651C</p>
+  <img width="197" height="197" alt="image" src="https://github.com/user-attachments/assets/cec40fa6-ceeb-4b16-8fcc-1b8844746810" />
+  <p align="center"><i>*QR Code Version</i></p>
+  <br>
+  <a href="https://paypal.me/genecromarky" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center"/>
+  </a>
+  <a href="https://ko-fi.com/nekorosys" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" align="center"/>
+  </a>
+</div>
+
+<br><br>
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
   <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
