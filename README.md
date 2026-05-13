@@ -138,7 +138,7 @@ I work alone either professionaly or as a hobby while I continue my journey of u
   </table>  
 </div>
 
-<p align="cemter"> *Not actualized yet! But I do have decent experience with handling Linux, git, and bash scripts. </p>
+<p align="center"> *Not actualized yet! But I do have decent experience with handling Linux, git, and bash scripts. </p>
 
 <br>
 
