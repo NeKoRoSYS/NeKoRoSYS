@@ -51,7 +51,7 @@ I work alone either professionaly or as a hobby while I continue my journey of u
 <!-- TODO: Add CV and Specialized Portfolios -->
 <br>
 
-<h2 align="center"> Sponsor Me! </h2>
+<h2 align="center"> Sponsorship </h2>
 <br>
 
 <div align="center">
@@ -92,8 +92,7 @@ I work alone either professionaly or as a hobby while I continue my journey of u
 
 <br>
 
-<p align="center">My Featured Projects</p>
-<h2 align="center"> NeKoROSS </h2>
+<h2 align="center"> My Featured Projects </h2>
 <br>
 
 - [NeKoRoSHELL](https://github.com/NeKoRoSYS/NeKoRoSHELL) is a minimal, generic, and modular ricing/customization framework for Arch Linux + Hyprland. It aims to provide an out-of-box "skins" engine that lets any user to quickly switch appearances for each widget/package such as waybar and the like. It also features a default "Legacy" theme which is a collection of skins I personally designed for a seamless UI/UX experience.
@@ -102,7 +101,7 @@ I work alone either professionaly or as a hobby while I continue my journey of u
 - [NeKONTROLLER](https://github.com/NeKoRoSYS/NeKONTROLLER) is my own input handling solution based on Unity's New Input System. It features touch controls and other useful utilities and singletons.
 <br>
 
-<h2 align="center"> Tech Stack </h2>
+<h2 align="center"> My Tech Stack </h2>
 <br>
 
 <div align="center">
