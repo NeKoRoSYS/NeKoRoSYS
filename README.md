@@ -92,7 +92,8 @@ I work alone either professionaly or as a hobby while I continue my journey of u
 
 <br>
 
-<h2 align="center"> My Featured Projects </h2>
+<p align="center">My Featured Projects</p>
+<h2 align="center"> NeKoROSS </h2>
 <br>
 
 - [NeKoRoSHELL](https://github.com/NeKoRoSYS/NeKoRoSHELL) is a minimal, generic, and modular ricing/customization framework for Arch Linux + Hyprland. It aims to provide an out-of-box "skins" engine that lets any user to quickly switch appearances for each widget/package such as waybar and the like. It also features a default "Legacy" theme which is a collection of skins I personally designed for a seamless UI/UX experience.
