@@ -132,6 +132,7 @@ I work alone either professionaly or as a hobby while I continue my journey of u
         <b>*SysAdmin/DevOps</b><br><br>
         <a href="https://www.linux.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50"/></a>  
         <a href="https://github.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"/></a>  
+        <a href="https://docker.com/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" height="50"/></a>  
         <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50"/></a> 
       </td>
     </tr>
