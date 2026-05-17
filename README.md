@@ -129,7 +129,7 @@ I work alone either professionaly or as a hobby while I continue my journey of u
       </td>
       
   <td align="center" valign="top" width="33%">
-        <b>*SysAdmin/DevOps</b><br><br>
+        <b>SysAdmin/DevOps</b><br><br>
         <a href="https://www.linux.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50"/></a>  
         <a href="https://github.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"/></a>  
         <a href="https://docker.com/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" height="50"/></a>  
@@ -138,8 +138,6 @@ I work alone either professionaly or as a hobby while I continue my journey of u
     </tr>
   </table>  
 </div>
-
-<p align="center"> *Not actualized yet! But I do have decent experience with handling Linux, git, Docker, and reading/writing bash scripts. </p>
 
 <br>
 
