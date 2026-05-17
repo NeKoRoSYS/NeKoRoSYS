@@ -105,7 +105,6 @@ I work alone either professionaly or as a hobby while I continue my journey of u
 <br>
 
 <div align="center">
-
   <table width="100%">
     <tr>
       <td align="center" valign="top" width="33%">
@@ -122,10 +121,11 @@ I work alone either professionaly or as a hobby while I continue my journey of u
   <td align="center" valign="top" width="33%">
         <b>Backend</b><br><br>
         <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50"/></a>  
-        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"/></a>  
         <a href="https://www.python.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/></a>  
         <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50"/></a>  
         <a href="https://unity.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50"/></a>  
+        <a href="https://nodejs.org" target="_blank"><img style="margin: 5px" src="https://nodejs.org/static/logos/jsIconGreen.svg" alt="Node.js" height="50"/></a>  
+        <a href="https://mongodb.com" target="_blank"><img style="margin: 5px" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" alt="MongoDB" height="50"/></a>  
       </td>
       
   <td align="center" valign="top" width="33%">
@@ -137,6 +137,8 @@ I work alone either professionaly or as a hobby while I continue my journey of u
     </tr>
   </table>  
 </div>
+
+
 
 <p align="center"> *Not actualized yet! But I do have decent experience with handling Linux, git, and bash scripts. </p>
 
