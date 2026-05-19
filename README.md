@@ -145,7 +145,7 @@ My profeciency for each category varies but I do have a grasp on their core conc
 
 My main goal has always been to upskill myself. I'm currently in the pursuit of obtaining certificates (eg. programming languages, DICT/TESDA, HackerRank, AWS/Azure Cloud, CS50, etc.) to solidify my skills so that the Tech Stack above would make more sense. At the current state I am in, I possess the practical skills to make projects happen but I still lack the theoretical knowledge and discipline to become more or less a professional.
 
-### Specific Skills I am Confident With
+### Specific skills I am confident with
 - Containerization via Docker
 - REST API and WebSocket
 - Database CRUD Management and Querying via MongoDB
