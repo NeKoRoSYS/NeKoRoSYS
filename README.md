@@ -141,15 +141,24 @@ I work alone either professionaly or as a hobby while I continue my journey of u
 
 <br>
 
-My profeciency for each category varies but I do have a grasp on their core concepts and essential dos and don'ts. I mainly do Unity game development; basic/intermediate-level frontend webdev via HTML, CSS, and JS; and Arch Linux ricing! Though, I have lately been dipping myself into learning C++ so I can develop a basic 3D game engine for fun.
+My profeciency for each category varies but I do have a grasp on their core concepts and essential dos and don'ts. Though, I have lately been dipping myself into learning C++ so I can develop a basic 3D game engine for fun.
 
 My main goal has always been to upskill myself. I'm currently in the pursuit of obtaining certificates (eg. programming languages, DICT/TESDA, HackerRank, AWS/Azure Cloud, CS50, etc.) to solidify my skills so that the Tech Stack above would make more sense. At the current state I am in, I possess the practical skills to make projects happen but I still lack the theoretical knowledge and discipline to become more or less a professional.
 
+### Specific Skills I am Confident With
+- Containerization via Docker
+- REST API and WebSocket
+- Database CRUD Management and Querying via MongoDB
+- Unity game development
+- Frontend web development via TypeScript (JavaScript), CSS, HTML (and soon, React!)
+- Node.js for JavaScript runtime
+- Linux (Arch)
+- Bash/Terminal
+
 My other goals include learning about the following concepts and applying them practically:
-- Docker/Containerization
+- React and React Native
 - Cloud computing, hosting, and management
 - Webserver hosting and management
-- Database hosting and management
 - Testing
 - CI/CD
   
