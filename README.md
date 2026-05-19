@@ -152,8 +152,7 @@ My main goal has always been to upskill myself. I'm currently in the pursuit of 
 - Unity game development
 - Frontend web development via TypeScript (JavaScript), CSS, HTML (and soon, React!)
 - Node.js for JavaScript runtime
-- Linux (Arch)
-- Bash/Terminal
+- GNU/Linux (Arch): Terminal (bash and zsh)
 
 My other goals include learning about the following concepts and applying them practically:
 - React and React Native
