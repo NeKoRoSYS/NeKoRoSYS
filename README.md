@@ -152,16 +152,18 @@ My main goal has always been to upskill myself. I'm currently in the pursuit of 
 - REST API and WebSocket
 - Database CRUD Management and Querying via MongoDB
 - Unity game development
-- Frontend web development via TypeScript (JavaScript), CSS, HTML (and soon, React!)
-- Node.js for JavaScript runtime
+- Frontend web development via React, Tailwind, TypeScript, and Node.js
 - GNU/Linux (Arch): Terminal (bash and zsh)
+- Git/Version Control
 
 My other goals include learning about the following concepts and applying them practically:
-- React and React Native
+- Cybersecurity
+- Container orchestration
 - Cloud computing, hosting, and management
 - Webserver hosting and management
 - Testing
 - CI/CD
+- IaC
   
 *All of these will most likely naturally come to me as I deepen my learning about webdev!*
 <br>
