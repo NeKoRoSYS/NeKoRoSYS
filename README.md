@@ -112,30 +112,37 @@ I work alone either professionaly or as a hobby while I continue my journey of u
         <b>Frontend</b><br><br>
         <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
         <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
+        <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+      </td>
+
+  <td align="center" valign="top" width="33%">
+        <b>Languages</b><br><br>
         <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
         <a href="https://www.javascript.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"/></a>
-        <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50"/></a>  
-        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50"/></a>
+        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50"/></a>  
+        <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50"/></a>  
+        <a href="https://www.python.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/></a>  
       </td>
       
   <td align="center" valign="top" width="33%">
         <b>Backend</b><br><br>
-        <a href="https://unity.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50"/></a>
-        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50"/></a>  
-        <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50"/></a>  
-        <a href="https://www.python.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/></a>  
         <a href="https://nodejs.org" target="_blank"><img style="margin: 5px" src="https://nodejs.org/static/logos/jsIconGreen.svg" alt="Node.js" height="50"/></a>
-        <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-</div>
         <a href="https://mongodb.com" target="_blank"><img style="margin: 5px" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" alt="MongoDB" height="50"/></a>  
       </td>
       
   <td align="center" valign="top" width="33%">
-        <b>SysAdmin/DevOps</b><br><br>
+        <b>DevOps</b><br><br>
         <a href="https://www.linux.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50"/></a>  
         <a href="https://github.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"/></a>  
         <a href="https://docker.com/" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" height="50"/></a>  
         <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50"/></a> 
+      </td>
+
+      
+  <td align="center" valign="top" width="33%">
+        <b>Tools</b><br><br>
+        <a href="https://unity.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50"/></a>
+        <a href="code.visualstudio.com/" target="_blank"><img style="margin: 5px" src="https://code.visualstudio.com/assets/branding/code-stable.png" alt="VS Code" height="50"/></a>
       </td>
     </tr>
   </table>  
@@ -143,6 +150,7 @@ I work alone either professionaly or as a hobby while I continue my journey of u
 
 <br>
 
+<!--
 My profeciency for each category varies but I do have a grasp on their core concepts and essential dos and don'ts. Though, I have lately been dipping myself into learning C++ so I can develop a basic 3D game engine for fun.
 
 My main goal has always been to upskill myself. I'm currently in the pursuit of obtaining certificates (eg. programming languages, DICT/TESDA, HackerRank, AWS/Azure Cloud, CS50, etc.) to solidify my skills so that the Tech Stack above would make more sense. At the current state I am in, I possess the practical skills to make projects happen but I still lack the theoretical knowledge and discipline to become more or less a professional.
@@ -166,7 +174,7 @@ My other goals include learning about the following concepts and applying them p
 - IaC
   
 *All of these will most likely naturally come to me as I deepen my learning about webdev!*
-<br>
+-->
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
   <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
