@@ -95,11 +95,38 @@ I work alone either professionaly or as a hobby while I continue my journey of u
 <h2 align="center"> My Featured Projects </h2>
 <br>
 
-- [NeKoRoSHELL](https://github.com/NeKoRoSYS/NeKoRoSHELL) is a minimal, generic, and modular ricing/customization framework for Arch Linux + Hyprland. It aims to provide an out-of-box "skins" engine that lets any user to quickly switch appearances for each widget/package such as waybar and the like. It also features a default "Legacy" theme which is a collection of skins I personally designed for a seamless UI/UX experience.
-  - [NeKoRoSHELL DLux](https://github.com/NeKoRoSYS/NeKoRoSHELL-DLux-Shell) is an optional upgrade of the original NeKoRoSHELL project that uses Quickshell as its framework. This project aims to replace all of the separate packages/widgets like waybar and SwayNC with QT-based UI components for an even more consistent UI/UX experience.
-- [NeKoRoBOT.js](https://github.com/NeKoRoSYS/NeKoRoBOT.js) is a full-stack plug-n-play Discord.js bot template written in Typescript and Python for its frontend and backend, respectively. It does not provide a MongoDB account but it is built to connect and interface with a MongoDB database.
-- [NeKoRoGEAR](https://github.com/NeKoRoSYS/NeKoRoGEAR) is a 3D game engine programmed with C++ and is based on established libraries such as SDL3, OpenGL, and more.
-- [NeKONTROLLER](https://github.com/NeKoRoSYS/NeKONTROLLER) is my own input handling solution based on Unity's New Input System. It features touch controls and other useful utilities and singletons.
+<div align="center">
+  <table style="width: 100%; max-width: 1000px; border-collapse: collapse; text-align: left;">
+    <tr>
+      <!-- Top Left Cell: NeKoRoSHELL & DLux -->
+      <td width="50%" valign="top" style="padding: 15px; border: 1px solid #30363d;">
+        <strong><a href="https://github.com/NeKoRoSYS/NeKoRoSHELL">NeKoRoSHELL</a></strong><br>
+        is a minimal, generic, and modular ricing/customization framework for Arch Linux + Hyprland. It aims to provide an out-of-box "skins" engine that lets any user to quickly switch appearances for each widget/package such as waybar and the like. It also features a default "Legacy" theme which is a collection of skins I personally designed for a seamless UI/UX experience.
+        <br><br>
+        ↳ <strong><a href="https://github.com/NeKoRoSYS/NeKoRoSHELL-DLux-Shell">NeKoRoSHELL DLux</a></strong><br>
+        is an optional upgrade of the original NeKoRoSHELL project that uses Quickshell as its framework. This project aims to replace all of the separate packages/widgets like waybar and SwayNC with QT-based UI components for an even more consistent UI/UX experience.
+      </td>
+      <!-- Top Right Cell: NeKoRoBOT.js -->
+      <td width="50%" valign="top" style="padding: 15px; border: 1px solid #30363d;">
+        <strong><a href="https://github.com/NeKoRoSYS/NeKoRoBOT.js">NeKoRoBOT.js</a></strong><br>
+        is a full-stack plug-n-play Discord.js bot template written in Typescript and Python for its frontend and backend, respectively. It does not provide a MongoDB account but it is built to connect and interface with a MongoDB database.
+      </td>
+    </tr>
+    <tr>
+      <!-- Bottom Left Cell: NeKoRoGEAR -->
+      <td width="50%" valign="top" style="padding: 15px; border: 1px solid #30363d;">
+        <strong><a href="https://github.com/NeKoRoSYS/NeKoRoGEAR">NeKoRoGEAR</a></strong><br>
+        is a 3D game engine programmed with C++ and is based on established libraries such as SDL3, OpenGL, and more.
+      </td>
+      <!-- Bottom Right Cell: NeKONTROLLER -->
+      <td width="50%" valign="top" style="padding: 15px; border: 1px solid #30363d;">
+        <strong><a href="https://github.com/NeKoRoSYS/NeKONTROLLER">NeKONTROLLER</a></strong><br>
+        is my own input handling solution based on Unity's New Input System. It features touch controls and other useful utilities and singletons.
+      </td>
+    </tr>
+  </table>
+</div>
+
 <br>
 
 <h2 align="center"> My Tech Stack </h2>
