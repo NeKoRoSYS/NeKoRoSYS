@@ -192,13 +192,22 @@ My other goals include learning about the following concepts and applying them p
   <h2 align="center"> GitHub Stats </h2>
   <br>
    
-  <p align="center">  
-    <img width="48%" src="https://github-readme-stats.shion.dev/api?username=NeKoRoSYS&theme=aura&hide_border=false&include_all_commits=true&count_private=true"></img>
-    <img width="48%" src="https://streak-stats.demolab.com/?user=NeKoRoSYS&theme=aura&hide_border=false"></img>
-  </p>
-  <p align="center">
-    <img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=NeKoRoSYS&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></img>
-  </p>
+  <table>
+    <tr>
+      <td rowspan="2" width="55%">
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NeKoRoSYS&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" />
+      </td>
+      <td width="45%">
+        <img src="https://streak-stats.demolab.com/?user=NeKoRoSYS&theme=aura&hide_border=false" width="100%"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.shion.dev/api?username=NeKoRoSYS&theme=aura&hide_border=false&include_all_commits=true&count_private=true" width="100%"/>
+      </td>
+    </tr>
+  </table>
+
    
   <br>
    
