@@ -180,32 +180,41 @@ My other goals include learning about the following concepts and applying them p
   <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
 </a>
 
-<br>
+<br><br>
 
-<h2 align="center"> GitHub Stats </h2>
-<br>
-
-<p align="center">  
-  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=NeKoRoSYS&theme=aura&hide_border=false&include_all_commits=true&count_private=true"></img>
-  <img width="48%" src="https://streak-stats.demolab.com/?user=NeKoRoSYS&theme=aura&hide_border=false"></img>
-</p>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=NeKoRoSYS&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></img>
-</p>
-
-<br>
+<details>
+  <summary align="center" style="font-size: 1.5em; font-weight: bold; cursor: pointer;">
+    <i>Click to View Certificates, GitHub Stats, and Trophies</i>
+  </summary>
   
-<h2 align="center"> GitHub Trophies </h2>
+  <br>
+  
+  <h2 align="center"> GitHub Stats </h2>
+  <br>
+   
+  <p align="center">  
+    <img width="48%" src="https://github-readme-stats.shion.dev/api?username=NeKoRoSYS&theme=aura&hide_border=false&include_all_commits=true&count_private=true"></img>
+    <img width="48%" src="https://streak-stats.demolab.com/?user=NeKoRoSYS&theme=aura&hide_border=false"></img>
+  </p>
+  <p align="center">
+    <img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=NeKoRoSYS&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></img>
+  </p>
+   
+  <br>
+   
+  <h2 align="center"> GitHub Trophies </h2>
+  <br>
+   
+  <div align="center">
+   
+  ![](https://github-profile-trophy.vercel.app/?username=NeKoRoSYS&theme=aura&no-frame=false&no-bg=true&margin-w=4)
+   
+  </div>
+
+</details>
+ 
 <br>
-
-<div align="center">
-            
-![](https://github-profile-trophy.vercel.app/?username=NeKoRoSYS&theme=aura&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
-<br>
-
+ 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
   <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
 </a>
