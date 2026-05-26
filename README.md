@@ -26,21 +26,21 @@ I am an aspiring software developer, and my goal is to learn a lot of aspects th
 
 <div align="center">
   <a href="https://github.com/NeKoRoSYS?tab=repositories" target="_blank">
-    <img src=https://img.shields.io/badge/my%20projects-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/-my%20projects-6C3BAA?style=for-the-badge&logo=github&logoColor=000000&labelColor=39FF14" alt="github" style="margin-bottom: 5px;" />
   </a>
   <a href="https://twitter.com/NeKoRoSYS" target="_blank">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/-twitter-6C3BAA?style=for-the-badge&logo=x&logoColor=000000&labelColor=39FF14" alt="twitter" style="margin-bottom: 5px;" />
   </a>
   <a href="https://linkedin.com/in/malibiran-johnmarky" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/-linkedin-6C3BAA?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=39FF14" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.facebook.com/malibiran.johnmarky" target="_blank">
-    <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/-facebook-6C3BAA?style=for-the-badge&logo=facebook&logoColor=000000&labelColor=39FF14" alt="facebook" style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.youtube.com/@nekorosys" target="_blank">
-    <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-  </a>  
-</div>  
+    <img src="https://img.shields.io/badge/-youtube-6C3BAA?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=39FF14" alt="youtube" style="margin-bottom: 5px;" />
+  </a>
+</div>
 
 <br>
 
@@ -73,10 +73,10 @@ I work alone either professionaly or as a hobby while I continue my journey of u
 
   <p>or...</p>
   <a href="https://paypal.me/genecromarky" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center"/>
+    <img src="https://img.shields.io/badge/-Paypal_Me-6C3BAA?style=for-the-badge&logo=paypal&logoColor=000000&labelColor=39FF14" alt="Donate via PayPal" align="center"/>
   </a>
   <a href="https://ko-fi.com/nekorosys" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" align="center"/>
+    <img src="https://img.shields.io/badge/-Buy_Me_Coffee-6C3BAA?style=for-the-badge&logo=ko-fi&logoColor=000000&labelColor=39FF14" alt="Donate via Ko-fi" align="center"/>
   </a>
 </div>
 
