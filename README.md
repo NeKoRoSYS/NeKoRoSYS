@@ -162,6 +162,7 @@ I work alone either professionaly or as a hobby while I continue my journey of u
         <b>Backend</b><br><br>
         <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer"><img style="margin: 5px" src="https://nodejs.org/static/logos/jsIconGreen.svg" alt="Node.js" height="50"/></a>
         <a href="https://mongodb.com" target="_blank" rel="noopener noreferrer"><img style="margin: 5px" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" alt="MongoDB" height="50"/></a>  
+        <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer"><img style="margin: 5px" src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" height="50"/></a>  
       </td>
     </tr>
     <tr>
