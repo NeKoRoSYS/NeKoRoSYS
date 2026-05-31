@@ -115,7 +115,7 @@ I work alone either professionaly or as a hobby while I continue my journey of u
       <!-- Top Right Cell: NeKoRoBOT.js -->
       <td width="50%" valign="top" style="padding: 15px; border: 1px solid #30363d;">
         <strong><a href="https://github.com/NeKoRoSYS/NeKoRoBOT.js" target="_blank" rel="noopener noreferrer">NeKoRoBOT.js</a></strong><br>
-        is a full-stack plug-n-play Discord.js bot template written in Typescript and Python for its frontend and backend, respectively. It does not provide a MongoDB account but it is built to connect and interface with a MongoDB database.<br> Powered by <a href="https://github.com/NeKoRoSYS/NeKoRoPIE">NeKoRoPIE</a>!
+        is a full-stack plug-n-play Discord.js bot template written in Typescript and Python for its frontend and backend, respectively. It does not provide a MongoDB account but it is built to connect and interface with a MongoDB database.<br><br> Powered by <a href="https://github.com/NeKoRoSYS/NeKoRoPIE">NeKoRoPIE</a>!
       </td>
     </tr>
     <tr>
