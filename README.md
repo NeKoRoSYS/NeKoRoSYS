@@ -52,7 +52,7 @@ I am an aspiring software developer, and my goal is to learn a lot of aspects th
 
 I am active the most on Discord. Here's my username - `@nekorosys`
 
-I work alone either professionaly or as a hobby while I continue my journey of upskilling and making useable prototypes and products. However, I am more than happy enough to work with anyone who's interested if I pass the criteria.
+I work alone either professionaly or as a hobby while I strive to pursue my journey of gaining experience to upskill myself. **Commissions are open, and I am also available for hire.** I am looking forward to see where my skills can get me as I am more than happy enough to collaborate! For business inquiries, you may contact me via my LinkedIn or Discord as listed above; Gmail is also listed as a means of communication, but I cannot guarantee that I will be able to respond on time.
 
 <!-- TODO: Add CV and Specialized Portfolios -->
 <br>
@@ -181,8 +181,7 @@ Below are the following skills I am confident with:
 - REST API Backend
 - Frontend and Backend Web Developemnt
 
-Commissions are open, and I am also available for hire. If your project does not fall in any of these categories, you are still welcome to contact me to discuss any possibilities. Price varies depending on complexity/time spent.
-
+**Commissions are open!** Though, If your project does not fall in any of these categories, you are still welcome to contact me to discuss any possibilities. Price varies depending on complexity/time spent.
 <!--
 My profeciency for each category varies but I do have a grasp on their core concepts and essential dos and don'ts. Though, I have lately been dipping myself into learning C++ so I can develop a basic 3D game engine for fun.
 
