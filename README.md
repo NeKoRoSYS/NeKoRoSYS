@@ -98,6 +98,19 @@ I work alone either professionaly or as a hobby while I strive to pursue my jour
 
 <br>
 
+<h3>My Specialties</h3>
+
+Below are the following skills I am confident with:
+- Linux SysAd & Ricing
+- Game Development
+- Discord Chatbots Development
+- REST API Backend
+- Frontend and Backend Web Developemnt
+
+**Commissions are open!** Though, If your project does not fall in any of these categories, you are still welcome to contact me to discuss any possibilities. Price varies depending on complexity/time spent.
+
+<br>
+
 <h2 align="center"> My Featured Projects </h2>
 <br>
 
@@ -172,16 +185,6 @@ I work alone either professionaly or as a hobby while I strive to pursue my jour
 
 <br>
 
-<h3>My Specialties</h3>
-
-Below are the following skills I am confident with:
-- Linux SysAd & Ricing
-- Game Development
-- Discord Chatbots Development
-- REST API Backend
-- Frontend and Backend Web Developemnt
-
-**Commissions are open!** Though, If your project does not fall in any of these categories, you are still welcome to contact me to discuss any possibilities. Price varies depending on complexity/time spent.
 <!--
 My profeciency for each category varies but I do have a grasp on their core concepts and essential dos and don'ts. Though, I have lately been dipping myself into learning C++ so I can develop a basic 3D game engine for fun.
 
