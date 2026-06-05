@@ -158,25 +158,25 @@ Below are the following skills I am confident with:
     <tr>
       <td align="center" valign="top" width="33%">
         <b>Languages</b><br><br>
-        <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="https://skillicons.dev/icons?i=ts,js,cs,cpp,py&perline=2" alt="Languages" /></a>  
+        <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="https://skillicons.dev/icons?i=ts,js,cs,cpp,py&perline=3" alt="Languages" /></a>  
       </td>
       <td align="center" valign="top" width="33%">
         <b>Frontend</b><br><br>
-        <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react,tailwind,nextjs,vite&perline=2" alt="Languages" /></a>  
+        <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react,tailwind,nextjs,vite&perline=3" alt="Languages" /></a>  
       </td>
       <td align="center" valign="top" width="33%">
         <b>Backend</b><br><br>
-        <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs,mongodb,fastapi&perline=2" alt="Languages" /></a>  
+        <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs,mongodb,fastapi&perline=3" alt="Languages" /></a>  
       </td>
     </tr>
     <tr>
       <td align="center" valign="top" width="33%">
         <b>DevOps</b><br><br>
-        <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux,git,docker,kubernetes,bash&perline=2" alt="Languages" /></a>  
+        <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux,git,docker,kubernetes,bash&perline=3" alt="Languages" /></a>  
       </td>
       <td align="center" valign="top" width="33%">
         <b>Tools</b><br><br>
-        <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="https://skillicons.dev/icons?i=unity,vscode,github&perline=2" alt="Languages" /></a>  
+        <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="https://skillicons.dev/icons?i=unity,vscode,github&perline=3" alt="Languages" /></a>  
       </td>
       <td width="33%"></td>
     </tr>
