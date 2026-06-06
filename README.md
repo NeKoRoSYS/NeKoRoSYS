@@ -101,10 +101,10 @@ I work alone either professionaly or as a hobby while I strive to pursue my jour
 <h3>My Specialties</h3>
 
 Below are the following skills I am confident with:
-- Linux SysAd & Ricing
+- Linux SysAd & Desktop Environment Ricing
 - Game Development
 - Discord Chatbots Development
-- REST API Backend
+- REST API Backend Development
 - Frontend and Backend Web Developemnt
 
 **Commissions are open!** Though, If your project does not fall in any of these categories, you are still welcome to contact me to discuss any possibilities. Price varies depending on complexity/time spent.
