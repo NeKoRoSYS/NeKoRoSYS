@@ -20,7 +20,7 @@
 <h2 align="center"> About Me </h2>
 <br>
 
-I am an aspiring software developer, and my goal is to learn a lot of aspects that come in developing software and IoT such as video games and other tools and systems. You can find more about me on [my website](https://nekorosys.github.io)!
+I am an aspiring software developer. My goal is to learn a lot of aspects that come in developing software, systems, and general IoT such as video games, and other tools and systems. You can find more about me on [my website](https://nekorosys.github.io)!
 
 <br>
 
@@ -50,7 +50,7 @@ I am an aspiring software developer, and my goal is to learn a lot of aspects th
 
 <br>
 
-I am active the most on Discord. Here's my username - `@nekorosys`
+I use Discord all the time and I prefer it as my main means of communication. Here's my username - `@nekorosys`
 
 I work alone either professionaly or as a hobby while I strive to pursue my journey of gaining experience to upskill myself. **Commissions are open, and I am also available for hire.** I am looking forward to see where my skills can get me as I am more than happy enough to collaborate! For business inquiries, you may contact me via my LinkedIn or Discord as listed above; Gmail is also listed as a means of communication, but I cannot guarantee that I will be able to respond on time.
 
@@ -101,10 +101,11 @@ I work alone either professionaly or as a hobby while I strive to pursue my jour
 <h3>My Specialties</h3>
 
 Below are the following skills I am confident with:
-- Linux SysAd & Desktop Environment/UI Customization
+- Arch Linux SysAd & Desktop Environment/UI Customization
+- Software Containerization and Orchestration
 - Unity Game Development
 - Discord Chatbots Development
-- RESTful API Backend Development
+- RESTful API and WebSockets Backend Development
 - Frontend and Backend Web Developemnt
 
 **Commissions are open!** Though, If your project does not fall in any of these categories, you are still welcome to contact me to discuss any possibilities. Price varies depending on complexity/time spent.
