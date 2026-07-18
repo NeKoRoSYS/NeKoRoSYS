@@ -108,7 +108,7 @@ Below are the following skills I am confident with:
 - RESTful API and WebSockets Backend Development
 - Frontend and Backend Web Developemnt
 
-**Commissions are open!** Though, If your project does not fall in any of these categories, you are still welcome to contact me to discuss any possibilities. Price varies depending on complexity/time spent.
+**Commissions are open!** Though, If your project does not fall in any of these categories, you are still welcome to contact me to discuss any possibilities. Price varies depending on project's complexity or time spent.
 
 <br>
 
