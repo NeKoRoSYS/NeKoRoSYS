@@ -103,7 +103,7 @@ I work alone either professionaly or as a hobby while I strive to pursue my jour
 Below are the following skills I am confident with:
 - Arch Linux SysAd & Desktop Environment/UI Customization
 - Software Containerization and Orchestration
-- Unity Game Development
+- Full-cycle Unity Game Development
 - Discord Chatbots Development
 - RESTful API and WebSockets Backend Development
 - Frontend and Backend Web Developemnt
