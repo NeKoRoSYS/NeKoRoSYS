@@ -18,6 +18,11 @@
 <br><br>
 
 <h2 align="center"> About Me </h2>
+
+<div align="center">
+  <h3><a href="https://github.com/NeKoRoSYS/NeKoRoSYS/blob/main/CV%20Malibiran%202026.pdf" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a></h3>
+</div>
+
 <br>
 
 I am an aspiring software developer. My goal is to learn a lot of aspects that come in developing software, systems, and general IoT such as video games, and other tools and systems. You can find more about me on [my website](https://nekorosys.github.io)!
@@ -54,7 +59,6 @@ I use Discord all the time and I prefer it as my main means of communication. He
 
 I work alone either professionaly or as a hobby while I strive to pursue my journey of gaining experience to upskill myself. **Commissions are open, and I am also available for hire.** I am looking forward to see where my skills can get me as I am more than happy enough to collaborate! For business inquiries, you may contact me via my LinkedIn or Discord as listed above; Gmail is also listed as a means of communication, but I cannot guarantee that I will be able to respond on time.
 
-<!-- TODO: Add CV and Specialized Portfolios -->
 <br>
 
 <h2 align="center"> Sponsorship </h2>
