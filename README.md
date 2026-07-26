@@ -55,9 +55,9 @@ I am an aspiring software developer. My goal is to learn a lot of aspects that c
 
 <br>
 
-I use Discord all the time and I prefer it as my main means of communication. Here's my username - `@nekorosys`
+I' on Discord and I prefer to use it as my main means of communication! Here's my username - `@nekorosys`
 
-I work alone either professionaly or as a hobby while I strive to pursue my journey of gaining experience to upskill myself. **Commissions are open, and I am also available for hire.** I am looking forward to see where my skills can get me as I am more than happy enough to collaborate! For business inquiries, you may contact me via my LinkedIn or Discord as listed above; Gmail is also listed as a means of communication, but I cannot guarantee that I will be able to respond on time.
+I work alone either professionaly or as a hobby while I strive to pursue my journey of upskilling myself. **Commissions are open, and I am also available for hire.** I am eager to see where my skills can get me as I am more than happy enough to collaborate! For business inquiries, you may contact me via my LinkedIn or Discord as listed above; Gmail is also listed as a proper means of communication, but I cannot guarantee that I will be able to respond on time.
 
 <br>
 
