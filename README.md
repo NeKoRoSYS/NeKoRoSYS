@@ -25,7 +25,7 @@
 
 <br>
 
-I am an aspiring software developer. My goal is to learn a lot of aspects that come in developing software, systems, and general IoT such as video games, and other tools and systems. You can find more about me on [my website](https://nekorosys.github.io)!
+I am an aspiring software developer. My goal is to learn a lot of aspects that come in developing software, systems, and IoT. You can find more about me on [my website](https://nekorosys.github.io)!
 
 <br>
 
