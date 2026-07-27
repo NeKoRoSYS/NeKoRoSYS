@@ -45,7 +45,7 @@ I am an aspiring software developer. My goal is to learn a lot of aspects that c
   <a href="https://twitter.com/NeKoRoSYS" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-twitter-6C3BAA?style=for-the-badge&logo=x&logoColor=000000&labelColor=39FF14" alt="twitter" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://discord.gg/invite/tZsMTPNYU8" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.gg/qJp2ByQZq4" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-discord-6C3BAA?style=for-the-badge&logo=discord&logoColor=000000&labelColor=39FF14" alt="discord server" style="margin-bottom: 5px;" />
   </a>
   <a href="https://nekorosys.itch.io" target="_blank" rel="noopener noreferrer">
