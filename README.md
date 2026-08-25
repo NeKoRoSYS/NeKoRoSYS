@@ -171,7 +171,7 @@ Below are the following skills I am confident with:
       </td>
       <td align="center" valign="top" width="33%">
         <b>Backend</b><br><br>
-        <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs,mongodb,fastapi&perline=3" alt="Languages" /></a>  
+        <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs,mongodb,postgresql,fastapi&perline=3" alt="Languages" /></a>  
       </td>
     </tr>
     <tr>
@@ -181,7 +181,7 @@ Below are the following skills I am confident with:
       </td>
       <td align="center" valign="top" width="33%">
         <b>Tools</b><br><br>
-        <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="https://skillicons.dev/icons?i=unity,vscode,neovim,github&perline=3" alt="Languages" /></a>  
+        <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="https://skillicons.dev/icons?i=unity,vscode,neovim,github,vercel&perline=3" alt="Languages" /></a>  
       </td>
       <td width="33%"></td>
     </tr>
