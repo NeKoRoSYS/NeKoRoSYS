@@ -122,6 +122,14 @@ Below are the following skills I am confident with:
 <div align="center">
   <table style="width: 100%; max-width: 1000px; border-collapse: collapse; text-align: left;">
     <tr>
+      <td width="100%" valign="top" style="padding: 15px; border: 1px solid #30363d;">
+        <strong><a href="https://github.com/NeKoRoSYS/Portfolio" target="_blank" rel="noopener noreferrer">Portfolio Website</a></strong><br>
+        My very own portfolio website. Built using Next.js, Tailwind, and TypeScript.
+        <br><br>
+        ↳ <strong><a href="https://nekorosys.vercel.app" target="_blank" rel="noopener noreferrer">View Portfolio</a></strong>
+      </td>
+    </tr>
+    <tr>
       <!-- Top Left Cell: NeKoRoSHELL & DLux -->
       <td width="50%" valign="top" style="padding: 15px; border: 1px solid #30363d;">
         <strong><a href="https://github.com/NeKoRoSYS/NeKoRoSHELL" target="_blank" rel="noopener noreferrer">NeKoRoSHELL</a></strong><br>
