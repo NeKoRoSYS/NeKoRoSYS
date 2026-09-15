@@ -33,9 +33,6 @@ I am an aspiring software developer. My goal is to learn a lot of aspects that c
   <a href="https://nekorosys.vercel.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-my%20website-6C3BAA?style=for-the-badge&logo=circuitverse&logoColor=000000&labelColor=39FF14" alt="website" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://github.com/NeKoRoSYS?tab=repositories" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-my%20projects-6C3BAA?style=for-the-badge&logo=github&logoColor=000000&labelColor=39FF14" alt="github" style="margin-bottom: 5px;" />
-  </a>
   <a href="mailto:nekorosys@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Hire%20Me-6C3BAA?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=39FF14" alt="Hire Me" style="margin-bottom: 5px;" />
   </a>
