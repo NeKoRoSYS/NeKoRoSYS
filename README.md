@@ -2,7 +2,24 @@
             
 ![Logo Banner](https://github.com/NeKoRoSYS/NeKoRoSYS/blob/main/bannerColor.png)
 
+<a href="https://nekorosys.vercel.app" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/-my%20website-6C3BAA?style=for-the-badge&logo=circuitverse&logoColor=000000&labelColor=39FF14" alt="website" style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/NeKoRoSYS/NeKoRoSYS/blob/main/CV%20Malibiran%202026.pdf" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/-Curriculum%20Vitae-6C3BAA?style=for-the-badge&logo=readdotcv&logoColor=000000&labelColor=39FF14" alt="cv" style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/malibiran-johnmarky" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/-linkedin-6C3BAA?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzAwMCIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&labelColor=39FF14" alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+<a href="https://discord.gg/qJp2ByQZq4" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/-discord-6C3BAA?style=for-the-badge&logo=discord&logoColor=000000&labelColor=39FF14" alt="discord server" style="margin-bottom: 5px;" />
+</a>
+<a href="https://nekorosys.itch.io" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/-itch.io-6C3BAA?style=for-the-badge&logo=itch.io&logoColor=000000&labelColor=39FF14" alt="itch.io" style="margin-bottom: 5px;" />
+</a>
 </div>
+
+<br><br>
 
 <h2 align="center"> My Featured Projects </h2>
 <br>
@@ -54,43 +71,6 @@
 
 <h2 align="center"> About Me </h2>
 
-<div align="center">
-  <h3><a href="https://github.com/NeKoRoSYS/NeKoRoSYS/blob/main/CV%20Malibiran%202026.pdf" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a></h3>
-</div>
-
-<br>
-
-I am an aspiring software developer. My goal is to learn a lot of aspects that come in developing software, systems, and IoT. You can find more about me on [my website](https://nekorosys.vercel.app)!
-
-<br>
-
-<div align="center">
-  <a href="https://nekorosys.vercel.app" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-my%20website-6C3BAA?style=for-the-badge&logo=circuitverse&logoColor=000000&labelColor=39FF14" alt="website" style="margin-bottom: 5px;" />
-  </a>
-  <a href="mailto:nekorosys@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Hire%20Me-6C3BAA?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=39FF14" alt="Hire Me" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/malibiran-johnmarky" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-linkedin-6C3BAA?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=39FF14" alt="linkedin" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://twitter.com/NeKoRoSYS" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-twitter-6C3BAA?style=for-the-badge&logo=x&logoColor=000000&labelColor=39FF14" alt="twitter" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://discord.gg/qJp2ByQZq4" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-discord-6C3BAA?style=for-the-badge&logo=discord&logoColor=000000&labelColor=39FF14" alt="discord server" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://nekorosys.itch.io" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-itch.io-6C3BAA?style=for-the-badge&logo=itch.io&logoColor=000000&labelColor=39FF14" alt="itch.io" style="margin-bottom: 5px;" />
-  </a>
-</div>
-
-<br>
-
-I use Discord as my main means of communication! Here's my username - `@nekorosys`
-
-I work alone either professionaly or as a hobby while I strive to pursue my journey of upskilling myself. **Commissions are open, and I am also available for hire.** I am eager to see where my skills can get me as I am more than happy enough to collaborate! For business inquiries, you may contact me via my LinkedIn or Discord as listed above; Gmail is also listed as a proper means of communication, but I cannot guarantee that I will be able to respond on time.
-
 <br>
 
 <details>
@@ -123,17 +103,25 @@ I work alone either professionaly or as a hobby while I strive to pursue my jour
   <br>
 </details>
 
+<br>
+
+I am a Software Engineer and Graphic Designer.
+- **[Discord](https://discord.gg/qJp2ByQZq4)** - `@nekorosys`
+- <a href="https://linkedin.com/in/malibiran-johnmarky" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+- <a href="mailto:nekorosys@gmail.com" target="_blank" rel="noopener noreferrer">Send an e-mail</a>
+
+
 <h3>My Specialties</h3>
 
-Below are the following skills I am confident with:
-- Arch Linux SysAd & Desktop Environment/UI Customization
+- Unity Game Development
+- Arch Linux System Administration
+- Frontend Web Design and General UI/UX
+- RESTful API, WebSockets, and Databases
 - Software Containerization and Orchestration
-- Full-cycle Unity Game Development
 - Discord Chatbots Development
-- RESTful API and WebSockets Backend Development
-- Frontend and Backend Web Developemnt
 
-**Commissions are open!** Though, If your project does not fall in any of these categories, you are still welcome to contact me to discuss any possibilities. Price varies depending on project's complexity or time spent.
+**Commissions are open!** Though, If your project does not fall in any of these categories, you are still welcome to contact me to discuss about your ideas. Service fee varies depending on complexity and time spent.
+
 
 <br>
 
