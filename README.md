@@ -1,6 +1,6 @@
 <div align="center">
             
-![Logo Banner](https://github.com/NeKoRoSYS/NeKoRoSYS/blob/main/banner.png)
+![Logo Banner](https://github.com/NeKoRoSYS/NeKoRoSYS/blob/main/bannerColor.png)
 
 </div>
 
