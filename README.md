@@ -35,7 +35,6 @@
       </td>
     </tr>
     <tr>
-      <!-- Top Left Cell: NeKoRoSHELL & DLux -->
       <td width="50%" valign="top" style="padding: 15px; border: 1px solid #30363d;">
         <strong><a href="https://github.com/NeKoRoSYS/NeKoRoSHELL" target="_blank" rel="noopener noreferrer">NeKoRoSHELL</a></strong><br>
         is a minimal, generic, and modular ricing/customization framework for Arch Linux + Hyprland. It aims to provide an out-of-box "skins" engine that lets any user to quickly switch appearances for each widget/package such as waybar and the like. It also features a default "Legacy" theme which is a collection of skins I personally designed for a seamless UI/UX experience.
@@ -43,7 +42,6 @@
         ↳ <strong><a href="https://github.com/NeKoRoSYS/NeKoRoSHELL-DLux-Shell" target="_blank" rel="noopener noreferrer">NeKoRoSHELL DLux</a></strong><br>
         is an optional upgrade of the original NeKoRoSHELL project that uses Quickshell as its framework. This project aims to replace all of the separate packages/widgets like waybar and SwayNC with QT-based UI components for an even more consistent UI/UX experience.
       </td>
-      <!-- Top Right Cell: NeKoRoBOT.js -->
       <td width="50%" valign="top" style="padding: 15px; border: 1px solid #30363d;">
         <strong><a href="https://github.com/NeKoRoSYS/NeKoRoBOT.js" target="_blank" rel="noopener noreferrer">NeKoRoBOT.js</a></strong><br>
         is a full-stack plug-n-play Discord.js bot template written in Typescript and Python for its frontend and backend, respectively. It does not provide a MongoDB account but it is built to connect and interface with a MongoDB database.
@@ -52,12 +50,10 @@
       </td>
     </tr>
     <tr>
-      <!-- Bottom Left Cell: NeKoRoGEAR -->
       <td width="50%" valign="top" style="padding: 15px; border: 1px solid #30363d;">
         <strong><a href="https://github.com/NeKoRoSYS/NeKoRoGEAR" target="_blank" rel="noopener noreferrer">NeKoRoGEAR</a></strong><br>
         is a 3D game engine programmed with C++ and is based on established libraries such as SDL3, OpenGL, and more.
       </td>
-      <!-- Bottom Right Cell: NeKONTROLLER -->
       <td width="50%" valign="top" style="padding: 15px; border: 1px solid #30363d;">
         <strong><a href="https://github.com/NeKoRoSYS/NeKONTROLLER" target="_blank" rel="noopener noreferrer">NeKONTROLLER</a></strong><br>
         is my own input handling solution based on Unity's New Input System. It features touch controls and other useful utilities and singletons.
@@ -105,8 +101,10 @@
 
 <br>
 
-I am a Software Engineer and Graphic Designer.
-- **[Discord](https://discord.gg/qJp2ByQZq4)** - `@nekorosys`
+I am a Software Engineer and Graphic Designer with an eager mindset to learn, adapt, and deliver.
+
+I do contracted or otherwise freelance work; though, I am also open for internships and full-time opportunities. For business inquiries, you may contact me through the links below.
+- [Discord](https://discord.gg/qJp2ByQZq4) - `@nekorosys`
 - <a href="https://linkedin.com/in/malibiran-johnmarky" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 - <a href="mailto:nekorosys@gmail.com" target="_blank" rel="noopener noreferrer">Send an e-mail</a>
 
