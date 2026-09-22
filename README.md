@@ -103,12 +103,6 @@
 
 I am a Software Engineer and Graphic Designer with an eager mindset to learn, adapt, and deliver.
 
-I do contracted or otherwise freelance work; though, I am also open for internships and full-time opportunities. For business inquiries, you may contact me through the links below.
-- [Discord](https://discord.gg/qJp2ByQZq4) - `@nekorosys`
-- <a href="https://linkedin.com/in/malibiran-johnmarky" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-- <a href="mailto:nekorosys@gmail.com" target="_blank" rel="noopener noreferrer">Send an e-mail</a>
-
-
 <h3>My Specialties</h3>
 
 - Unity Game Development
@@ -118,8 +112,13 @@ I do contracted or otherwise freelance work; though, I am also open for internsh
 - Software Containerization and Orchestration
 - Discord Chatbots Development
 
-If your idea does not fall under any of these categories, you are still welcome to contact me and discuss about it. Service fee varies depending on complexity and time spent.
+If your idea does not fall under any of these categories, you are still welcome to contact me and discuss about it.
 
+I do contracted or otherwise freelance work; though, I am also open for internships and full-time opportunities. For business inquiries, you may contact me through the links below.
+- [Discord](https://discord.gg/qJp2ByQZq4) - `@nekorosys`
+- <a href="https://linkedin.com/in/malibiran-johnmarky" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+- <a href="mailto:nekorosys@gmail.com" target="_blank" rel="noopener noreferrer">Send an e-mail</a>
+Service fee varies depending on complexity and time spent.
 
 <br>
 
