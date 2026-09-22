@@ -1,21 +1,8 @@
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
-  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
-</a>
-
-<br><br>
-
 <div align="center">
             
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=33&pause=5000&color=986EF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Welcome+to+NeKoRoSYS's+GitHub+Profile!)](https://git.io/typing-svg)
+![Logo Banner](https://github.com/NeKoRoSYS/NeKoRoSYS/blob/main/banner.png)
 
 </div>
-<br>
-
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
-  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
-</a>
-
-<br><br>
 
 <h2 align="center"> My Featured Projects </h2>
 <br>
@@ -104,6 +91,37 @@ I use Discord as my main means of communication! Here's my username - `@nekorosy
 
 I work alone either professionaly or as a hobby while I strive to pursue my journey of upskilling myself. **Commissions are open, and I am also available for hire.** I am eager to see where my skills can get me as I am more than happy enough to collaborate! For business inquiries, you may contact me via my LinkedIn or Discord as listed above; Gmail is also listed as a proper means of communication, but I cannot guarantee that I will be able to respond on time.
 
+<br>
+
+<details>
+  <summary align="center" style="font-size: 1.5em; font-weight: bold; cursor: pointer;">
+    <i>Click to View Certificates and GitHub Stats</i>
+  </summary>
+  
+  <br>
+  
+  <h2 align="center"> GitHub Stats </h2>
+  <br>
+  
+  <div align="center">
+  <table>
+    <tr>
+      <td rowspan="2" width="55%">
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NeKoRoSYS&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" />
+      </td>
+      <td width="45%">
+        <img src="https://streak-stats.demolab.com/?user=NeKoRoSYS&theme=aura&hide_border=false" width="100%"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.shion.dev/api?username=NeKoRoSYS&theme=aura&hide_border=false&include_all_commits=true&count_private=true" width="100%"/>
+      </td>
+    </tr>
+  </table>
+  </div>
+  <br>
+</details>
 
 <h3>My Specialties</h3>
 
@@ -161,55 +179,7 @@ Below are the following skills I am confident with:
   </table>  
 </div>
 
-<br>
-
-
-<details>
-  <summary align="center" style="font-size: 1.5em; font-weight: bold; cursor: pointer;">
-    <i>Click to View Certificates, GitHub Stats, and Trophies</i>
-  </summary>
-  
-  <br>
-  
-  <h2 align="center"> GitHub Stats </h2>
-  <br>
-   
-  <table>
-    <tr>
-      <td rowspan="2" width="55%">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NeKoRoSYS&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" />
-      </td>
-      <td width="45%">
-        <img src="https://streak-stats.demolab.com/?user=NeKoRoSYS&theme=aura&hide_border=false" width="100%"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.shion.dev/api?username=NeKoRoSYS&theme=aura&hide_border=false&include_all_commits=true&count_private=true" width="100%"/>
-      </td>
-    </tr>
-  </table>
-
-   
-  <br>
-   
-  <h2 align="center"> GitHub Trophies </h2>
-  <br>
-   
-  <div align="center">
-   
-  ![](https://github-profile-trophy.vercel.app/?username=NeKoRoSYS&theme=aura&no-frame=false&no-bg=true&margin-w=4)
-   
-  </div>
-
-</details>
  
-<br>
- 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
-  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
-</a>
-
 <br>
 <br>
 
@@ -247,10 +217,3 @@ Below are the following skills I am confident with:
 <br>
 
 <p align="center">Sponsoring me is not a must but will be immensely appreciated!</p>
-
-<br>
-<br>
-
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
-  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
-</a>
