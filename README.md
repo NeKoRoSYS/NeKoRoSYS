@@ -120,7 +120,7 @@ I am a Software Engineer and Graphic Designer.
 - Software Containerization and Orchestration
 - Discord Chatbots Development
 
-**Commissions are open!** Though, If your project does not fall in any of these categories, you are still welcome to contact me to discuss about your ideas. Service fee varies depending on complexity and time spent.
+**Commissions are open!** Though, If your project does not fall under any of these categories, you are still welcome to contact me to discuss about your ideas. Service fee varies depending on complexity and time spent.
 
 
 <br>
