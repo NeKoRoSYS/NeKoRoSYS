@@ -5,7 +5,7 @@
 <a href="https://nekorosys.vercel.app" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/-my%20website-6C3BAA?style=for-the-badge&logo=circuitverse&logoColor=000000&labelColor=39FF14" alt="website" style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/NeKoRoSYS/NeKoRoSYS/blob/main/CV%20Malibiran%202026.pdf" target="_blank" rel="noopener noreferrer">
+<a href="https://raw.githubusercontent.com/NeKoRoSYS/NeKoRoSYS/refs/heads/main/CV%20Malibiran%202026.pdf" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/-Curriculum%20Vitae-6C3BAA?style=for-the-badge&logo=readdotcv&logoColor=000000&labelColor=39FF14" alt="cv" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/malibiran-johnmarky" target="_blank" rel="noopener noreferrer">
