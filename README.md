@@ -185,7 +185,7 @@ Below are the following skills I am confident with:
         <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux,git,docker,kubernetes,bash&perline=3" alt="Languages" /></a>  
       </td>
       <td align="center" valign="top" width="33%">
-        <b>Tools</b><br><br>
+        <b>Tools and Platforms</b><br><br>
         <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="https://skillicons.dev/icons?i=unity,vscode,github,supabase,vercel&perline=3" alt="Languages" /></a>  
       </td>
       <td width="33%"></td>
