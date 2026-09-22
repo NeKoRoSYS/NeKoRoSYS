@@ -194,32 +194,14 @@ Below are the following skills I am confident with:
 </div>
 
 <br>
-
-<!--
-My profeciency for each category varies but I do have a grasp on their core concepts and essential dos and don'ts. Though, I have lately been dipping myself into learning C++ so I can develop a basic 3D game engine for fun.
-
-My main goal has always been to upskill myself. I'm currently in the pursuit of obtaining certificates (eg. programming languages, DICT/TESDA, HackerRank, AWS/Azure Cloud, CS50, etc.) to solidify my skills so that the Tech Stack above would make more sense. At the current state I am in, I possess the practical skills to make projects happen but I still lack the theoretical knowledge and discipline to become more or less a professional.
-
-### Specific skills I am confident with
-- Containerization via Docker
-- REST API and WebSocket
-- Database CRUD Management and Querying via MongoDB
-- Unity game development
-- Frontend web development via React, Tailwind, TypeScript, and Node.js
-- GNU/Linux (Arch): Terminal (bash and zsh)
-- Git/Version Control
-
-My other goals include learning about the following concepts and applying them practically:
-- Cybersecurity
-- Container orchestration
-- Cloud computing, hosting, and management
-- Webserver hosting and management
-- Testing
-- CI/CD
-- IaC
-  
-*All of these will most likely naturally come to me as I deepen my learning about webdev!*
--->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NeKoRoSYS/NeKoRoSYS/38e6590ed63cbe7026d21cce79ed12a26f3f9def/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NeKoRoSYS/NeKoRoSYS/38e6590ed63cbe7026d21cce79ed12a26f3f9def/github-contribution-grid-snake.svg">
+  <img alt="Logo" src="https://raw.githubusercontent.com/NeKoRoSYS/NeKoRoSYS/38e6590ed63cbe7026d21cce79ed12a26f3f9def/github-contribution-grid-snake-dark.svg">
+</picture>
+</div>
+<br>
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
   <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
