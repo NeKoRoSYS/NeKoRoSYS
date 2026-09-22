@@ -118,7 +118,7 @@ I do contracted or otherwise freelance work; though, I am also open for internsh
 - Software Containerization and Orchestration
 - Discord Chatbots Development
 
-**Commissions are open!** Though, If your project does not fall under any of these categories, you are still welcome to contact me to discuss about your ideas. Service fee varies depending on complexity and time spent.
+If your idea does not fall under any of these categories, you are still welcome to contact me and discuss about it. Service fee varies depending on complexity and time spent.
 
 
 <br>
