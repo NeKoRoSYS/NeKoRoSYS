@@ -17,109 +17,13 @@
 
 <br><br>
 
-<h2 align="center"> About Me </h2>
-
-<div align="center">
-  <h3><a href="https://github.com/NeKoRoSYS/NeKoRoSYS/blob/main/CV%20Malibiran%202026.pdf" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a></h3>
-</div>
-
-<br>
-
-I am an aspiring software developer. My goal is to learn a lot of aspects that come in developing software, systems, and IoT. You can find more about me on [my website](https://nekorosys.vercel.app)!
-
-<br>
-
-<div align="center">
-  <a href="https://nekorosys.vercel.app" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-my%20website-6C3BAA?style=for-the-badge&logo=circuitverse&logoColor=000000&labelColor=39FF14" alt="website" style="margin-bottom: 5px;" />
-  </a>
-  <a href="mailto:nekorosys@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Hire%20Me-6C3BAA?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=39FF14" alt="Hire Me" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/malibiran-johnmarky" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-linkedin-6C3BAA?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=39FF14" alt="linkedin" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://twitter.com/NeKoRoSYS" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-twitter-6C3BAA?style=for-the-badge&logo=x&logoColor=000000&labelColor=39FF14" alt="twitter" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://discord.gg/qJp2ByQZq4" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-discord-6C3BAA?style=for-the-badge&logo=discord&logoColor=000000&labelColor=39FF14" alt="discord server" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://nekorosys.itch.io" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-itch.io-6C3BAA?style=for-the-badge&logo=itch.io&logoColor=000000&labelColor=39FF14" alt="itch.io" style="margin-bottom: 5px;" />
-  </a>
-</div>
-
-<br>
-
-I use Discord as my main means of communication! Here's my username - `@nekorosys`
-
-I work alone either professionaly or as a hobby while I strive to pursue my journey of upskilling myself. **Commissions are open, and I am also available for hire.** I am eager to see where my skills can get me as I am more than happy enough to collaborate! For business inquiries, you may contact me via my LinkedIn or Discord as listed above; Gmail is also listed as a proper means of communication, but I cannot guarantee that I will be able to respond on time.
-
-<br>
-
-<h2 align="center"> Sponsorship </h2>
-<br>
-
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <b>My Ethereum Wallet</b><br><br>
-        <code>0x5C429b3fdc7E6F7a692C234358ba31492Feb651C</code><br><br>
-        <img width="197" height="197" alt="Ethereum QR Code" src="https://github.com/user-attachments/assets/0474e85c-0bf9-4e80-90e4-47d883307221" /><br>
-      </td>
-      <td align="center" width="50%">
-        <b>My Bitcoin Wallet</b><br><br>
-        <code>bc1qw80kkgu8yp4mwzuzddygmnyamcjesfavwmer8a</code><br><br>
-        <img width="197" height="197" alt="Bitcoin QR Code" src="https://github.com/user-attachments/assets/470db62b-dca0-4b10-a979-c2be1f8d8203" /><br>
-      </td>
-    </tr>
-  </table>
-
-  <p>or...</p>
-  <a href="https://paypal.me/genecromarky" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/-Paypal_Me-6C3BAA?style=for-the-badge&logo=paypal&logoColor=000000&labelColor=39FF14" alt="Donate via PayPal" align="center"/>
-  </a>
-  <a href="https://ko-fi.com/nekorosys" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/-Buy_Me_Coffee-6C3BAA?style=for-the-badge&logo=ko-fi&logoColor=000000&labelColor=39FF14" alt="Donate via Ko-fi" align="center"/>
-  </a>
-</div>
-
-<br>
-
-<p align="center">Sponsoring me is not a must but will be immensely appreciated!</p>
-
-<br>
-
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
-  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
-</a>
-
-<br>
-
-<h3>My Specialties</h3>
-
-Below are the following skills I am confident with:
-- Arch Linux SysAd & Desktop Environment/UI Customization
-- Software Containerization and Orchestration
-- Full-cycle Unity Game Development
-- Discord Chatbots Development
-- RESTful API and WebSockets Backend Development
-- Frontend and Backend Web Developemnt
-
-**Commissions are open!** Though, If your project does not fall in any of these categories, you are still welcome to contact me to discuss any possibilities. Price varies depending on project's complexity or time spent.
-
-<br>
-
 <h2 align="center"> My Featured Projects </h2>
 <br>
 
 <div align="center">
   <table style="width: 100%; max-width: 1000px; border-collapse: collapse; text-align: left;">
     <tr>
-      <td <td colspan="2" style="padding: 15px; border: 1px solid #30363d;">>
+      <td <td colspan="2" style="padding: 15px; border: 1px solid #30363d;">
         <strong><a href="https://github.com/NeKoRoSYS/Portfolio" target="_blank" rel="noopener noreferrer">Portfolio Website</a></strong><br>
         My very own portfolio website. Built using Next.js, Tailwind, and TypeScript.
         <br><br>
@@ -159,6 +63,70 @@ Below are the following skills I am confident with:
 </div>
 
 <br>
+<br>
+
+<h2 align="center"> About Me </h2>
+
+<div align="center">
+  <h3><a href="https://github.com/NeKoRoSYS/NeKoRoSYS/blob/main/CV%20Malibiran%202026.pdf" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a></h3>
+</div>
+
+<br>
+
+I am an aspiring software developer. My goal is to learn a lot of aspects that come in developing software, systems, and IoT. You can find more about me on [my website](https://nekorosys.vercel.app)!
+
+<br>
+
+<div align="center">
+  <a href="https://nekorosys.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-my%20website-6C3BAA?style=for-the-badge&logo=circuitverse&logoColor=000000&labelColor=39FF14" alt="website" style="margin-bottom: 5px;" />
+  </a>
+  <a href="mailto:nekorosys@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Hire%20Me-6C3BAA?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=39FF14" alt="Hire Me" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/malibiran-johnmarky" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-linkedin-6C3BAA?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=39FF14" alt="linkedin" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://twitter.com/NeKoRoSYS" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-twitter-6C3BAA?style=for-the-badge&logo=x&logoColor=000000&labelColor=39FF14" alt="twitter" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://discord.gg/qJp2ByQZq4" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-discord-6C3BAA?style=for-the-badge&logo=discord&logoColor=000000&labelColor=39FF14" alt="discord server" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://nekorosys.itch.io" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-itch.io-6C3BAA?style=for-the-badge&logo=itch.io&logoColor=000000&labelColor=39FF14" alt="itch.io" style="margin-bottom: 5px;" />
+  </a>
+</div>
+
+<br>
+
+I use Discord as my main means of communication! Here's my username - `@nekorosys`
+
+I work alone either professionaly or as a hobby while I strive to pursue my journey of upskilling myself. **Commissions are open, and I am also available for hire.** I am eager to see where my skills can get me as I am more than happy enough to collaborate! For business inquiries, you may contact me via my LinkedIn or Discord as listed above; Gmail is also listed as a proper means of communication, but I cannot guarantee that I will be able to respond on time.
+
+
+<h3>My Specialties</h3>
+
+Below are the following skills I am confident with:
+- Arch Linux SysAd & Desktop Environment/UI Customization
+- Software Containerization and Orchestration
+- Full-cycle Unity Game Development
+- Discord Chatbots Development
+- RESTful API and WebSockets Backend Development
+- Frontend and Backend Web Developemnt
+
+**Commissions are open!** Though, If your project does not fall in any of these categories, you are still welcome to contact me to discuss any possibilities. Price varies depending on project's complexity or time spent.
+
+<br>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NeKoRoSYS/NeKoRoSYS/38e6590ed63cbe7026d21cce79ed12a26f3f9def/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NeKoRoSYS/NeKoRoSYS/38e6590ed63cbe7026d21cce79ed12a26f3f9def/github-contribution-grid-snake.svg">
+  <img alt="Logo" src="https://raw.githubusercontent.com/NeKoRoSYS/NeKoRoSYS/38e6590ed63cbe7026d21cce79ed12a26f3f9def/github-contribution-grid-snake-dark.svg">
+</picture>
+</div>
+<br>
 
 <h2 align="center"> My Tech Stack </h2>
 <br>
@@ -194,20 +162,7 @@ Below are the following skills I am confident with:
 </div>
 
 <br>
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NeKoRoSYS/NeKoRoSYS/38e6590ed63cbe7026d21cce79ed12a26f3f9def/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NeKoRoSYS/NeKoRoSYS/38e6590ed63cbe7026d21cce79ed12a26f3f9def/github-contribution-grid-snake.svg">
-  <img alt="Logo" src="https://raw.githubusercontent.com/NeKoRoSYS/NeKoRoSYS/38e6590ed63cbe7026d21cce79ed12a26f3f9def/github-contribution-grid-snake-dark.svg">
-</picture>
-</div>
-<br>
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
-  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
-</a>
-
-<br><br>
 
 <details>
   <summary align="center" style="font-size: 1.5em; font-weight: bold; cursor: pointer;">
@@ -251,6 +206,51 @@ Below are the following skills I am confident with:
  
 <br>
  
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
+
+<br>
+<br>
+
+
+<h2 align="center"> Sponsorship </h2>
+<br>
+<br>
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <b>My Ethereum Wallet</b><br><br>
+        <code>0x5C429b3fdc7E6F7a692C234358ba31492Feb651C</code><br><br>
+        <img width="197" height="197" alt="Ethereum QR Code" src="https://github.com/user-attachments/assets/0474e85c-0bf9-4e80-90e4-47d883307221" /><br>
+      </td>
+      <td align="center" width="50%">
+        <b>My Bitcoin Wallet</b><br><br>
+        <code>bc1qw80kkgu8yp4mwzuzddygmnyamcjesfavwmer8a</code><br><br>
+        <img width="197" height="197" alt="Bitcoin QR Code" src="https://github.com/user-attachments/assets/470db62b-dca0-4b10-a979-c2be1f8d8203" /><br>
+      </td>
+    </tr>
+  </table>
+
+  <p>or...</p>
+  <a href="https://paypal.me/genecromarky" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/-Paypal_Me-6C3BAA?style=for-the-badge&logo=paypal&logoColor=000000&labelColor=39FF14" alt="Donate via PayPal" align="center"/>
+  </a>
+  <a href="https://ko-fi.com/nekorosys" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/-Buy_Me_Coffee-6C3BAA?style=for-the-badge&logo=ko-fi&logoColor=000000&labelColor=39FF14" alt="Donate via Ko-fi" align="center"/>
+  </a>
+</div>
+
+<br>
+
+<p align="center">Sponsoring me is not a must but will be immensely appreciated!</p>
+
+<br>
+<br>
+
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
   <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
 </a>
