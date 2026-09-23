@@ -41,7 +41,7 @@
     <tr>
       <td width="50%" valign="top" style="padding: 15px; border: 1px solid #30363d;">
         <h3><strong><a href="https://github.com/NeKoRoSYS/NeKoRoSHELL" target="_blank" rel="noopener noreferrer">NeKoRoSHELL</a></strong></h3><hr>
-        is a minimal, generic, and modular ricing/customization framework for Arch Linux + Hyprland.
+        A minimal and modular ricing/customization framework for Arch Linux + Hyprland.
 		<br><br>
 		<b>The Problem:</b> Most of the DE configurations I found online are either bloated or too complicated for someone who's only been daily-driving the GNU/Linux operating system for the first time, during their first few weeks.
 		<br><br>
