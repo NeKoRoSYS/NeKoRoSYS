@@ -28,22 +28,30 @@
   <table style="width: 100%; max-width: 1000px; border-collapse: collapse; text-align: left;">
     <tr>
       <td <td colspan="2" style="padding: 15px; border: 1px solid #30363d;">
-        <strong><a href="https://github.com/NeKoRoSYS/Portfolio" target="_blank" rel="noopener noreferrer">Portfolio Website</a></strong><br>
-        My very own portfolio website. Built using Next.js, Tailwind, and TypeScript.
+        <h3><strong><a href="https://github.com/NeKoRoSYS/Portfolio" target="_blank" rel="noopener noreferrer">Portfolio Website</a></strong></h3><hr>
+        My portfolio website built using Next.js, React, Tailwind CSS, and TypeScript.
+		<br><br>
+		<b>The Problem:</b> <b>Portfolio v1</b> lacked in the visuals department. The styling and layout were inconsistent, and the content did not flow like a professional portfolio website.
+		<br><br>
+		<b>The Solution:</b> <b>Portfolio v2</b> solves this by rewriting everything from the ground up. Utilizing my new profound knowledge, refined skill set, and less reliance on AI assistance, I created a professional landing page with a unique branding and visual identity tied to my pseudonym.
         <br><br>
-        ↳ <strong><a href="https://nekorosys.vercel.app" target="_blank" rel="noopener noreferrer">View Portfolio</a></strong>
+        ↳ <strong><a href="https://nekorosys.vercel.app" target="_blank" rel="noopener noreferrer">Live Demo</a></strong>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top" style="padding: 15px; border: 1px solid #30363d;">
-        <strong><a href="https://github.com/NeKoRoSYS/NeKoRoSHELL" target="_blank" rel="noopener noreferrer">NeKoRoSHELL</a></strong><br>
-        is a minimal, generic, and modular ricing/customization framework for Arch Linux + Hyprland. It aims to provide an out-of-box "skins" engine that lets any user to quickly switch appearances for each widget/package such as waybar and the like. It also features a default "Legacy" theme which is a collection of skins I personally designed for a seamless UI/UX experience.
+        <h3><strong><a href="https://github.com/NeKoRoSYS/NeKoRoSHELL" target="_blank" rel="noopener noreferrer">NeKoRoSHELL</a></strong></h3><hr>
+        is a minimal, generic, and modular ricing/customization framework for Arch Linux + Hyprland.
+		<br><br>
+		<b>The Problem:</b> Most of the DE configurations I found online are either bloated or too complicated for someone who's only been daily-driving the GNU/Linux operating system for the first time, during their first few weeks.
+		<br><br>
+		<b>The Solution:</b> <b>NeKoRoSHELL</b> fixes that by providing a set of utility scripts written in bash and C++ which lets the user customize their Hyprland experience through customizable keybinds. The project introduces a <b>Skins and Theming</b> system that follows an easy-to-pickup schema of directory structures for the involved UI binaries found in <code>$HOME/.config/</code>.
         <br><br>
         ↳ <strong><a href="https://github.com/NeKoRoSYS/NeKoRoSHELL-DLux-Shell" target="_blank" rel="noopener noreferrer">NeKoRoSHELL DLux</a></strong><br>
-        is an optional upgrade of the original NeKoRoSHELL project that uses Quickshell as its framework. This project aims to replace all of the separate packages/widgets like waybar and SwayNC with QT-based UI components for an even more consistent UI/UX experience.
+        is an optional upgrade for NeKoRoSHELL. It aims to replace separate UI binaries like waybar and SwayNC with a unified Qt-based interface built using Quickshell.
       </td>
       <td width="50%" valign="top" style="padding: 15px; border: 1px solid #30363d;">
-        <strong><a href="https://github.com/NeKoRoSYS/NeKoRoBOT.js" target="_blank" rel="noopener noreferrer">NeKoRoBOT.js</a></strong><br>
+        <h3><strong><a href="https://github.com/NeKoRoSYS/NeKoRoBOT.js" target="_blank" rel="noopener noreferrer">NeKoRoBOT.js</a></strong></h3><hr>
         is a full-stack plug-n-play Discord.js bot template written in Typescript and Python for its frontend and backend, respectively. It does not provide a MongoDB account but it is built to connect and interface with a MongoDB database.
         <br><br>
         ↳ Powered by <a href="https://github.com/NeKoRoSYS/NeKoRoPIE">NeKoRoPIE</a>!
@@ -51,11 +59,11 @@
     </tr>
     <tr>
       <td width="50%" valign="top" style="padding: 15px; border: 1px solid #30363d;">
-        <strong><a href="https://github.com/NeKoRoSYS/NeKoRoGEAR" target="_blank" rel="noopener noreferrer">NeKoRoGEAR</a></strong><br>
+        <h3><strong><a href="https://github.com/NeKoRoSYS/NeKoRoGEAR" target="_blank" rel="noopener noreferrer">NeKoRoGEAR</a></strong></h3><hr>
         is a 3D game engine programmed with C++ and is based on established libraries such as SDL3, OpenGL, and more.
       </td>
       <td width="50%" valign="top" style="padding: 15px; border: 1px solid #30363d;">
-        <strong><a href="https://github.com/NeKoRoSYS/NeKONTROLLER" target="_blank" rel="noopener noreferrer">NeKONTROLLER</a></strong><br>
+        <h3><strong><a href="https://github.com/NeKoRoSYS/NeKONTROLLER" target="_blank" rel="noopener noreferrer">NeKONTROLLER</a></strong></h3><hr>
         is my own input handling solution based on Unity's New Input System. It features touch controls and other useful utilities and singletons.
       </td>
     </tr>
