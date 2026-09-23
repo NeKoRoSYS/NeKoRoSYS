@@ -30,12 +30,12 @@
       <td <td colspan="2" style="padding: 15px; border: 1px solid #30363d;">
         <h3><strong><a href="https://github.com/NeKoRoSYS/Portfolio" target="_blank" rel="noopener noreferrer">Portfolio Website</a></strong></h3><hr>
         My portfolio website built using Next.js, React, Tailwind CSS, and TypeScript.
+        <br><br>
+        ↳ <strong><a href="https://nekorosys.vercel.app" target="_blank" rel="noopener noreferrer">Live Demo</a></strong>
 		<br><br>
 		<b>The Problem:</b> <b>Portfolio v1</b> lacked in the visuals department. The styling and layout were inconsistent, and the content did not flow like a professional portfolio website.
 		<br><br>
 		<b>The Solution:</b> <b>Portfolio v2</b> solves this by rewriting everything from the ground up. Utilizing my new profound knowledge, refined skill set, and less reliance on AI assistance, I created a professional landing page with a unique branding and visual identity tied to my pseudonym.
-        <br><br>
-        ↳ <strong><a href="https://nekorosys.vercel.app" target="_blank" rel="noopener noreferrer">Live Demo</a></strong>
       </td>
     </tr>
     <tr>
