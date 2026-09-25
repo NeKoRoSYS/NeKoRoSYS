@@ -125,7 +125,7 @@ If your idea does not fall under any of these categories, you are still welcome 
 I do contracted or otherwise freelance work; though, I am also open for internships and full-time opportunities. For business inquiries, you may contact me through the links below.
 - [Discord](https://discord.gg/qJp2ByQZq4) - `@nekorosys`
 - <a href="https://linkedin.com/in/malibiran-johnmarky" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-- <a href="mailto:nekorosys@gmail.com" target="_blank" rel="noopener noreferrer">Send an e-mail</a>
+- <a href="mailto:nekorosys@gmail.com" target="_blank" rel="noopener noreferrer">Send an e-mail</a><br>
 Service fee varies depending on complexity and time spent.
 
 <br>
