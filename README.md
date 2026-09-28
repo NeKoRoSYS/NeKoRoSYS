@@ -52,9 +52,13 @@
       </td>
       <td width="50%" valign="top" style="padding: 15px; border: 1px solid #30363d;">
         <h3><strong><a href="https://github.com/NeKoRoSYS/NeKoRoBOT.js" target="_blank" rel="noopener noreferrer">NeKoRoBOT.js</a></strong></h3><hr>
-        is a full-stack plug-n-play Discord.js bot template written in Typescript and Python for its frontend and backend, respectively. It does not provide a MongoDB account but it is built to connect and interface with a MongoDB database.
+        A full-stack Discord.JS bot template written in TypeScript and Python for its frontend and backend, respectively.
         <br><br>
         ↳ Powered by <a href="https://github.com/NeKoRoSYS/NeKoRoPIE">NeKoRoPIE</a>!
+		<br><br>
+		<b>The Problem:</b> How-to videos that teach how to make bots for Discord are often outdated nor are they complete.
+		<br><br>
+		<b>The Solution:</b> I worked on <b>NeKoRoBOT</b> to provide a reliable template to make Discord bots using a polyglot monorepo + microservices setup.
       </td>
     </tr>
     <tr>
