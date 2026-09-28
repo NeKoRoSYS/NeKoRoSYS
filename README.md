@@ -156,11 +156,11 @@ Service fee varies depending on complexity and time spent.
       </td>
       <td align="center" valign="top" width="33%">
         <b>Frontend</b><br><br>
-        <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react,tailwind,nextjs,vite&perline=3" alt="Languages" /></a>  
+        <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react,tailwind,nextjs,threejs,vite&perline=3" alt="Languages" /></a>  
       </td>
       <td align="center" valign="top" width="33%">
         <b>Backend</b><br><br>
-        <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs,postgresql,fastapi,mongodb,supabase&perline=3" alt="Languages" /></a>  
+        <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs,bun,postgresql,sqlite,fastapi,mongodb,supabase&perline=3" alt="Languages" /></a>  
       </td>
     </tr>
     <tr>
@@ -170,7 +170,7 @@ Service fee varies depending on complexity and time spent.
       </td>
       <td align="center" valign="top" width="33%">
         <b>Tools and Platforms</b><br><br>
-        <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="https://skillicons.dev/icons?i=unity,vscode,github,vercel&perline=3" alt="Languages" /></a>  
+        <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="https://skillicons.dev/icons?i=unity,godot,vscode,github,vercel&perline=3" alt="Languages" /></a>  
       </td>
       <td width="33%"></td>
     </tr>
