@@ -35,7 +35,7 @@
 		<br><br>
 		<b>The Problem:</b> <b>Portfolio v1</b> lacked in the visuals department. The styling and layout were inconsistent, and the content did not flow like a professional portfolio website.
 		<br><br>
-		<b>The Solution:</b> <b>Portfolio v2</b> solves this by rewriting everything from the ground up. Utilizing my new profound knowledge, refined skill set, and less reliance on AI assistance, I created a professional landing page with a unique branding and visual identity tied to my pseudonym.
+		<b>The Solution:</b> <b>Portfolio v2</b> solves this by rewriting everything from the ground up to make sure the codebase is clean and maintainable compared to its predecessor. Utilizing my new profound knowledge and refined skill set, I created a professional landing page with a unique branding and visual identity tied to my pseudonym.
       </td>
     </tr>
     <tr>
